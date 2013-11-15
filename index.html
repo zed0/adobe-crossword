@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>Adobe Crossword</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="description" content="A crossword created from the leaked Adobe.com password hints.">
+		<meta name="author" content="Ben Falconer">
+		<!-- Le styles -->
+		<link href="assets/css/bootstrap.min.css" rel="stylesheet">
+		<link type="text/css" href="css/custom-theme/jquery-ui-1.10.0.custom.css" rel="stylesheet" />
+		<link type="text/css" href="assets/css/font-awesome.min.css" rel="stylesheet" />
+		<!--[if IE 7]>
+		<link rel="stylesheet" href="assets/css/font-awesome-ie7.min.css">
+		<![endif]-->
+		<!--[if lt IE 9]>
+		<link rel="stylesheet" type="text/css" href="css/custom-theme/jquery.ui.1.10.0.ie.css"/>
+		<![endif]-->
+		<link href="assets/css/docs.css" rel="stylesheet">
+		<link href="assets/js/google-code-prettify/prettify.css" rel="stylesheet">
+
+		<!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+		<!--[if lt IE 9]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+
+		<link type="text/css" rel="stylesheet" href="./css/jquery.crossword.css" />
+
+
+	</head>
+	<body style="font-family: Verdana; background-color: #FFFDF0;">
+		<!-- Navbar
+		================================================== -->
+		<div class="navbar navbar-inverse navbar-fixed-top">
+			<div class="navbar-inner">
+				<div class="container">
+					<button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					<a class="brand" href="http://zed0.co.uk/crossword/">Adobe Crossword</a>
+					<div class="nav-collapse collapse">
+						<ul class="nav">
+							<li class="active">
+								<a href="#crossword">Crossword</a>
+							</li>
+							<li>
+								<a href="#faq">FAQ</a>
+							</li>
+							<li>
+								<a href="http://github.com/zed0/adobe-crossword">Source Code</a>
+							</li>
+							<li>
+								<a href="mailto:crossword@falconers.me.uk">Contact</a>
+							</li>
+						</ul>
+						<div id="twitter-share" class="pull-right">
+							<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://zed0.co.uk/crossword/" data-text="A crossword based on the Adobe password leak hints" data-size="large">Tweet</a>
+							<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- Subhead
+		================================================== -->
+		<header class="jumbotron subhead" id="overview">
+			<div class="container">
+				<p class="lead">
+					A crossword based on the Adobe password leak.<br />
+					Inspired by <a href="http://www.xkcd.com/1286/">xkcd #1286: Encryptic</a>
+				</p>
+			</div>
+		</header>
+		<div class="container">
+			<div class="row">
+				<div class="span12">
+					<form>
+						<p id="radioset">
+							Password popularity:
+							<input type="radio" class="chooseCrossword" no="0" id="radio0" name="radio" checked="checked"><label for="radio0">1-100</label>
+							<input type="radio" class="chooseCrossword" no="1" id="radio1" name="radio"><label for="radio1">101-200</label>
+							<input type="radio" class="chooseCrossword" no="2" id="radio2" name="radio"><label for="radio2">201-300</label>
+							<input type="radio" class="chooseCrossword" no="3" id="radio3" name="radio"><label for="radio3">301-400</label>
+							<input type="radio" class="chooseCrossword" no="4" id="radio4" name="radio"><label for="radio4">401-500</label>
+							<input type="radio" class="chooseCrossword" no="5" id="radio5" name="radio"><label for="radio5">501-600</label>
+							<input type="radio" class="chooseCrossword" no="6" id="radio6" name="radio"><label for="radio6">601-700</label>
+							<input type="radio" class="chooseCrossword" no="7" id="radio7" name="radio"><label for="radio7">701-800</label>
+							<input type="radio" class="chooseCrossword" no="8" id="radio8" name="radio"><label for="radio8">801-900</label>
+							<input type="radio" class="chooseCrossword" no="9" id="radio9" name="radio"><label for="radio9">901-1000</label>
+						</p>
+					</form>
+				</div>
+			</div>
+			<div class="row">
+				<!-- Crossword nav ================================================== -->
+				<section id="crossword">
+					<div class="span6">
+						<div class="row">
+							<div id="toolbarBox">
+								<div id="puzzleContainer">
+									<table id="puzzleTable" class="cwTable">
+									</table>
+								</div>
+								<div id="toolbar">
+									<button id="revealButton">Reveal</button>
+									<button id="checkButton">Check</button>
+									<button id="hideButton">Hide</button>
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- Clues ================================================== -->
+					<div class="span3">
+						<h3>Across</h3>
+						<div id="acrossContainer">
+						</div>
+					</div>
+					<div class="span3">
+						<h3>Down</h3>
+						<div id="downContainer">
+						</div>
+					</div>
+				</section>
+			</div>
+			<div class="row">
+				<section id="faq">
+					<h1>FAQ</h1>
+					<h2>Why did you make this?</h2>
+					<p class="docs-lead">The main intent of the exercise was to highlight how insecure most common memorable passwords are and how little you should trust that corporations, such as Adobe, are following best practice when it comes to storing them.</p>
+					<h2>But isn't releasing these passwords a huge security risk?</h2>
+					<p class="docs-lead">Not any more.  The passwords in these crosswords will have already been guessed long ago by people who have far more time and computing power to put towards it.<br />
+					For example <a href="http://krebsonsecurity.com/2013/11/facebook-warns-users-after-adobe-breach/">Facebook is putting efforts towards finding Adobe passwords</a> to protect their users, and Facebook has a lot more power at their disposal in terms of minds and computers than I do.</p>
+					<h2>My password is in this crossword!</h2>
+					<p class="docs-lead">Then you A: have a bad password; and B: should change your password as soon as you can anywhere else you may have used it.<br />
+					The current best practice for passwords is to generate a unique random password for every login and use a password management service such as <a href="http://keepass.info/">KeePass</a>, <a href="http://www.roboform.com/">RoboForm</a>, or <a href="https://lastpass.com/">LastPass</a>.</p>
+					<h2>Where did you get the idea?</h2>
+					<p class="docs-lead">I originally got the idea from <a href="http://www.xkcd.com/1286/">xkcd #1286: Encryptic</a>, and the technique he uses there can indeed be used to work out some of the harder clues, however most of the ones used here are pretty easy to guess without looking at the tail end of the hash.</p>
+					<h2>How do you know your answers are correct?</h2>
+					<p class="docs-lead">I don't.  However I am fairly confident of most of them.  The top 100 are taken directly from <a href="http://stricture-group.com/files/adobe-top100.txt">the Stricture Group top 100 adobe passwords</a>; the rest are guessed based on the clues.  If you do think I've got something incorrect then please let me know which you believe to be wrong, and why.</p>
+					<h2>How many of the passwords were used to create this?</h2>
+					<p class="docs-lead">I've only used the 1000 most common passwords in this, of those I guessed 65%, spending less than 10 seconds on each, the remaining ones were mostly people's names or non-English words.  If someone wants to give me a more complete list of answers then I will gladly generate some more crosswords.</p>
+				</section>
+			</div>
+		</div>
+		<!-- Placed at the end of the document so the pages load faster -->
+		<script src="assets/js/jquery-1.9.0.min.js" type="text/javascript"></script>
+		<script src="assets/js/bootstrap.min.js" type="text/javascript"></script>
+		<script src="assets/js/jquery-ui-1.10.0.custom.min.js" type="text/javascript"></script>
+		<script src="assets/js/google-code-prettify/prettify.js" type="text/javascript"></script>
+		<script src="assets/js/docs.js" type="text/javascript"></script>
+		<script src="js/jquery.crossword.js" type="text/javascript"></script>
+		<script type="text/javascript">
+$(document).ready(
+function ()
+{
+	$('button').button();
+	$('#toolbar').buttonset();
+	$('#radioset').buttonset();
+	$('.navbar li').click(function(e){
+		$('.navbar li.active').removeClass('active');
+		var $this = $(this);
+		if(!$this.hasClass('active')){
+			$this.addClass('active');
+		}
+		//e.preventDefault();
+		$('.navbar').delay(1).hide(0, function(){$(this).show()});
+	});
+	$.getJSON("puzzles/puzzle.0.json", function(data){
+		$(this).crossword(
+		{
+			'puzzle' 			: data.puzzle, //JSON puzzle structure
+			'clues' 			: data.clues, //JSON clue structure
+			'puzzleContainer'	: "#puzzleContainer", // id of puzzle display DIV 
+			'acrossContainer'	: "#acrossContainer", // id of across clues display DIV
+			'downContainer'		: "#downContainer", // id of down clues display DIV
+			'revealButton'		: "#revealButton", // id of reveal button
+			'hideButton'		: "#hideButton", // id of hide button
+			'checkButton'		: "#checkButton", // id of hide button
+		});
+	});
+}
+);
+		</script>
+	</body>
+</html>
+

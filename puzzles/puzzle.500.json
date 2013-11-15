@@ -1,0 +1,33 @@
+{
+"puzzle": [
+["_","_","_","p","r","e","c","i","o","u","s","_","_"],
+["_","d","_","_","_","_","a","_","_","_","_","s","_"],
+["c","a","l","i","f","o","r","n","i","a","_","c","_"],
+["_","r","_","_","_","_","p","_","_","_","_","o","_"],
+["_","k","_","b","_","t","e","a","c","h","e","r","_"],
+["_","n","_","r","_","_","d","_","i","_","_","p","_"],
+["_","e","_","o","_","_","i","_","a","_","_","i","_"],
+["_","s","p","o","n","g","e","b","o","b","_","o","_"],
+["_","s","_","k","_","_","m","_","c","_","_","n","_"],
+["_","_","_","l","_","_","_","_","i","_","_","_","_"],
+["_","_","_","y","_","a","a","a","a","a","a","a","_"],
+["_","_","_","n","_","_","_","_","o","_","_","_","_"],
+["_","_","_","_","_","_","_","_","_","_","_","_","_"]
+],
+"clues": {
+"across" : [
+{ "no" : "1", "key": "WRW1rZg9vP7ioxG6CatHBw==", "text" : "dog; cat; pet; nickname; me; dogs; name; my; daughter; pet; puppy; pre; moments; baby; cats; dog; pets; pet's; my; my; wife; p; kitty; angel; my; my; first; dog's; usual; same; prec; gollum; sister; poodle; meow; love; lord; gem; favorite; Cat; sweet; first; doggy; always; the; ps; Nickname; nick; my" },
+{ "no" : "5", "key": "JvAYNbkqz3+PszVFZo1Ggg==", "text" : "state; place; home; cali; State; ca; favorite; my; estado; usa; cal; CA; sun; LA; usual; oc; home; city; USA; the; sunny; pais; hometown; favorite; c; los; holiday; america; where; where; west; lugar; hotel; ciudad; us; sunshine; born; birthplace; state; state; same; la; fav; birth; birth; where; where; where?; west" },
+{ "no" : "7", "key": "Ixk/Ad8xYKY=", "text" : "job; occupation; profession; Job; school; my; career; work; teach; me; Occupation; my; Profession; what; tea; what; usual; job; What; NWRE; My; what; student; educator; What; what; what; education; prof; old; your; What; what; same; what; what; what; proffession; occ; Career; who; vocation; my; My; mom's; i; yahoo; What" },
+{ "no" : "9", "key": "UGJqmoVfjukYdlwScL4nsQ==", "text" : "cartoon; yellow; sponge; squarepants; patrick; bob; pineapple; cartoon; character; square; tv; yellow; tv; yellow; under; favorite; favorite; Cartoon; sea; nick; Yellow; who; square; sp; pineapple; cartoons; yellow; who; spongy; sb; s; patricks; Patrick; favorite; bikini; yellow; underwater; show; schwamm; nickelodeon; who; schwammkopf; same; lol; fav; Who; TV; spugna; pinapple" },
+{ "no" : "10", "key": "HbSu8rN75qQ=", "text" : "a; aaa; aa; 7a; a7; bbbbbbb; aaaaaaaa; aaaa; aaaaa; aaaaaa; sssssss; letters; aaaaaaaaa; 7; as; alphabet; abc; 1111111; ???????; zzzzzzz; wwwwwww; sssss; ssss; q; hi; ax7; asdf; asdasd; asasasa; a?; 7as; zzz; z; you; yes; yahoo; ssssssss; ss; sdf; sda; sahbi; rat; qqqqqqq; qqq; password; my; lol; hallo; ghgh" }
+],
+"down" : [
+{ "no" : "2", "key": "yD1oY0TTcFzeyXSMrFwf/w==", "text" : "seize; seize; motto; latin; carpe; sieze; day; life; cd; usual; sieze; cogli; seizetheday; tattoo; vive; vida; same; pluk; nutze; vive; lema; la; vie; Seize; vive; frase; the; standard; Seize; dia; dead; aprovecha; tag; seize; profite; poete; pelicula; normal; hola; f?nga; attimo; aproveite; aproveite; ?????; vive; quote; orazio; live; latino" },
+{ "no" : "3", "key": "XdCutX3mIirioxG6CatHBw==", "text" : "dark; light; black; night; oscuridad; band; lol; d; shadow; me; oscuro; Dark; color; usual; same; opposite; not; evil; ???; obscuridad; lightness; Light; dunkelheit; yami; none; no; dunkel; darknes; comic; ?; shadows; password; Night; nickname; dog; dar; da; the; standard; same; ness; jackie; everything; darknesss; dark?; blackness; ????; ??; yo" },
+{ "no" : "4", "key": "Rihh1t9Q7vc=", "text" : "sign; zodiac; horoscope; star; zodiac; star; starsign; car; birth; my; birthday; me; sting; stars; birthsign; usual; november; sunsign; astrology; birth; Sign; scorpion; signo; stinger; normal; dog; astro; animal; ??; insect; auto; Zodiac; the; tattoo; sc; october; bug; sun; same; bday; astro; astrological; your; scorp; s; pet; November; month; horo" },
+{ "no" : "4", "key": "NTeaE/VcE2rioxG6CatHBw==", "text" : "sting; animal; sign; signe; zodiac; insect; scorp; horoscope; me; mortal; bug; astro; star; signe; sc; tattoo; usual; s; star; zodiaque; stinger; signo; same; zodiac; scorpio; sco; pet; ouch; king; scor; poison; sunsign; none; moi; mk; desert; birthday; birth; zodie; zodia; sterrenbeeld; sternzeichen; november; insecte; bichu; bicho; 1; ??; venom" },
+{ "no" : "6", "key": "SginLvgIHe7ioxG6CatHBw==", "text" : "city; daughter; home; dog; hometown; new; bk; borough; born; ny; nyc; birthplace; brook; place; bridge; baby; newyork; name; city; granddaughter; where; home; my; cat; boro; town; kid; usual; place; City; bklyn; New; Daughter; birth; pet; NY; live; dogs; birth; where; where; where; my; child; where; nickname; daughters; city; born" },
+{ "no" : "8", "key": "WF20OASgSwjioxG6CatHBw==", "text" : "ciao; saluto; hello; saluti; saluta; salutami; hellohello; solita; ciaox2; ciao; bye; ciaociaociao; ciao; un; saluto; saluto2; saluta; ciaociao1; ciao2; 2ciao; we; Saluto; saluta; italia; io; hi; doppio; ciaocia; ciao2volte; byebye; bo; ??????; saluta!; no; nessuno; lol; la; hihi; ciao; ciao?; c; boh; addio; 2; 2saluti; ????; virtus; vaffanculo; timothy" }
+]}
+}

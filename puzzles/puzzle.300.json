@@ -1,0 +1,32 @@
+{
+"puzzle": [
+["_","_","a","_","_","_","_","_","_","j","_","_","_"],
+["_","_","d","_","_","j","_","m","_","u","_","_","_"],
+["_","m","o","t","d","e","p","a","s","s","e","_","_"],
+["b","_","b","_","_","s","_","n","_","t","_","_","_"],
+["a","l","e","x","i","s","_","c","_","i","_","_","_"],
+["r","_",".","_","_","i","_","h","_","n","_","_","_"],
+["n","_","c","_","r","e","m","e","m","b","e","r","_"],
+["e","_","o","_","_","_","_","s","_","i","_","_","_"],
+["y","a","m","a","h","a","_","t","_","e","_","_","_"],
+["_","_","_","_","_","_","_","e","_","b","_","_","_"],
+["_","_","t","i","n","k","e","r","b","e","l","l","_"],
+["_","_","_","_","_","_","_","_","_","r","_","_","_"],
+["_","_","_","_","_","_","_","_","_","_","_","_","_"]
+],
+"clues": {
+"across" : [
+{ "no" : "5", "key": "8JkomFzoeMYB+HYVrlQiww==", "text" : "mot; password; mdp; mot; indice; facile; passe; idem; rien; comme; simple; habituel; secret; french; passedemot; pareil; 1; mot; lol; code; adobe; question; Password; motdepasse1; mot; meme; MDP; le; habitude; classique; aucun; 123; pass; msn; mp; senha; prout; Mot; logique; en; comme; chat; azerty; ?; word; ville; toujours; test; quoi" },
+{ "no" : "7", "key": "FVwsWf6GfhU=", "text" : "daughter; name; fils; middle; my; girl; daughters; alex; baby; kid; granddaughter; sister; son; me; dog; prenom; nombre; grandaughter; Daughter; niece; child; middle; Name; mi; lexi; daughter's; wife; neice; enfant; hijo; cat; ale; mon; a; moi; al; yo; lex; first; daughter; baby; girlfriend; frere; amor; usual; son's; same; oldest; my" },
+{ "no" : "8", "key": "4hnVrh811NTioxG6CatHBw==", "text" : "forget; don't; dont; think; rem; memory; forgot; same; Don't; usual; re; always; forget?; what; r; remember?; forgot?; remember; mind; do; ??; the; remember; recall; none; duh; remind; remem; opposite; hotmail; forget; do; Don't; what?; password; Forget; do; ?; remember; remembe; reme; recordar; normal; never; member; don't; what; remember1; not" },
+{ "no" : "9", "key": "w90ks2YmvQU=", "text" : "bike; moto; motorcycle; motor; dirtbike; drums; guitar; my; piano; motorbike; y; keyboard; ya; usual; cross; Bike; quad; motocross; dirt; atv; music; speakers; snowmobile; motorrad; mc; brand; blue; sled; r1; first; yam; mi; drum; yz; speaker; Motorrad; blue; ???; jetski; bikes; bike; scooter; Motorcycle; teclado; rossi; name; motif; moped; dirt" },
+{ "no" : "10", "key": "30xVE2G1Z3fAhZNKBW56+w==", "text" : "fairy; disney; peter; cat; tink; dog; peterpan; nickname; pet; disney; tinker; Disney; pixie; peter; usual; Peter; bell; Fairy; cartoon; disney; character; campanita; me; my; kitty; cats; fairies; puppy; pixie; dogs; favourite; tinks; meow; favorite; Cat; pets; favorite; fav; peter; favorite; dog; Dog; pan; neverland; hada; dog's; pet; first; fave" }
+],
+"down" : [
+{ "no" : "1", "key": "ciq1emBxo0reyXSMrFwf/w==", "text" : "adobe; site; website; url; site; web; .com; this; adobe; website; adobedotcom; www; web; domain; name; Website; sitename; pagina; here; Adobe; URL; site.com; where; Site; adobe; where; this; nom; where; website.com; usual; www.adobe.com; company; adobecom; a; Where; the; name; standard; name; where; webpage; web; normal; com; adobe.; a.com; whereami; where" },
+{ "no" : "2", "key": "hR1pCCKMtht7xQcTFL85/g==", "text" : "jb; justin; justin; JB; bieber; singer; Jb; favorite; Justin; famous; one; love; Justinbieber; j; i; favourite; a; teamojb; star; Singer; sexy; Never; neversaynever; my; my; My; mi; justindrewbieber; Justin; just; jus; idolo; idol; hottie; hot; fav; celeb; Bieber; baby; algo; 123456; zanger; yus; your; you; you; yavrular; Without; who" },
+{ "no" : "3", "key": "clZh5GzH4MY=", "text" : "dog; name; cat; daughter; pet; dogs; Dog; nickname; my; my; me; dog; wife; first; old; horse; dog's; chien; doggie; granddaughter; woof; sister; mom; jess; black; son; husband; hund; mother; girl; friend; kid; Daughter; pets; j; fille; Cat; puppy; animal; usual; hond; doggy; dead; 1st; Pet; nick; name; jes; duh" },
+{ "no" : "4", "key": "Wq47rZpht3df+E5Ulu/AzA==", "text" : "city; football; united; team; town; place; man; club; home; football; soccer; equipo; football; footy; manu; manutd; uni; m; usual; mufc; manc; home; United; futbol; footie; Football; City; utd; soccer; hometown; red; my; foot; university; my; man; city; born; where; reds; red; place; klub; fav; work; soccer; ronaldo; none; manchesterunited" },
+{ "no" : "6", "key": "L7KLv90tohM=", "text" : "dog; cat; pet; purple; Dog; dogs; nickname; old; woof; dog; first; my; dinosaur; purple; purple; pets; dog's; dino; pet; rubble; horse; Cat; usual; bird; b; Purple; name; fred; doggy; Pet; hund; bear; puppy; name; dead; black; animal; 1st; rabbit; pet; fat; black; white; meow; cats; cartoon; beagle; bar; son" }
+]}
+}

@@ -1,0 +1,33 @@
+{
+"puzzle": [
+["_","_","l","a","s","v","e","g","a","s","_","_","_"],
+["_","_","_","d","_","_","_","_","_","k","_","_","_"],
+["_","_","g","o","d","z","i","l","l","a","_","s","_"],
+["w","_","_","b","_","_","_","_","_","t","_","k","_"],
+["e","n","t","e","r","p","r","i","s","e","_","i","_"],
+["b","_","_","p","_","i","_","_","_","b","_","t","_"],
+["m","_","_","h","_","g","_","_","_","o","_","t","_"],
+["a","_","v","o","l","l","e","y","b","a","l","l","_"],
+["s","_","_","t","_","e","_","_","_","r","_","e","_"],
+["t","_","d","o","c","t","o","r","_","d","_","s","_"],
+["e","_","_","_","_","_","_","_","_","_","_","_","_"],
+["r","e","a","d","i","n","g","_","_","_","_","_","_"],
+["_","_","_","_","_","_","_","_","_","_","_","_","_"]
+],
+"clues": {
+"across" : [
+{ "no" : "1", "key": "QL5y/1eVTg/ioxG6CatHBw==", "text" : "city; vacation; sin; place; nevada; holiday; home; gamble; vegas; wedding; married; lv; casino; favorite; honeymoon; gambling; favorite; usual; viva; trip; town; sin; Nevada; City; vacation; sincity; money; lights; elvis; where; travel; marriage; las; hometown; where; where; ville; Vacation; usa; Place; party; LV; Las; las; happiest; fun; fav; ciudad; test" },
+{ "no" : "4", "key": "mQ4h3Y91+E7ioxG6CatHBw==", "text" : "monster; lizard; green; movie; god; tokyo; dog; roar; pet; king; japan; cat; film; zilla; Monster; dinosaur; big; animal; ???; usual; japanese; gojira; mothra; ??; toho; rawr; g; car; big; ?????; Tokyo; same; me; king; big; none; movie; Lizard; King; king; kaiju; green; godzill; big; big; bicho; ???????; oh" },
+{ "no" : "7", "key": "mewU+AhhM+8B+HYVrlQiww==", "text" : "star; ship; starship; startrek; 1701; ncc1701; work; usual; kirk; trek; star; uss; picard; Star; Starship; space; Raumschiff; company; business; star; standard; star; spaceship; NCC; ncc; nave; the; normal; boat; USS; st; Ship; kirks; company; blah; archer; Star; spock; ncc; make; Kirk; enter; cvn65; big; you; Usual; Trek; StarTrek; Startrek" },
+{ "no" : "9", "key": "lez6oZcL1DDAhZNKBW56+w==", "text" : "sport; favorite; Sport; game; sports; fav; ball; volley; my; vb; vball; my; fave; Favorite; Sports; sport; Favorite; fall; fav.; beach; my; Fav; a; v-ball; v; Sportart; my; love; hobby; favorite; duh; coach; ???????; what; what; usual; the; sport?; player; play; password; My; deporte; your; what; Wednesday; v; voll" },
+{ "no" : "10", "key": "e3IV+gIjmeQ=", "text" : "profession; job; doc; me; dr; occupation; who; nickname; medical; degree; nurse; usual; prof; d; MD; medicine; sick; Profession; my; md; dog; career; who?; name; title; profesion; work; physician; my; dad; what; what; same; pet; medic; med; hospital; health; dream; Dr.; do; cat; ??; what; What; what; Tardis; proffesion" },
+{ "no" : "11", "key": "BhQnVVz2Jo0=", "text" : "books; book; hobby; Books; read; Reading; favorite; what; library; Library; Hobby; nook; Read; Book; what; home; what; what; what; football; town; subject; pastime; favorite; job; favorite; work; what; what; kobo; favorite; books; activity; What; place; pasttime; Favorite; ebook; words; what; what; What; like; favorite; favorite; ebooks; Activity; What; what" }
+],
+"down" : [
+{ "no" : "2", "key": "OfHMa8cyUtplAykA2YsxEQ==", "text" : "adobe; photo; program; software; adobe; photoshop; product; name; programa; adobephotoshop; ap; product; photoadobe; name; foto; ad; website; this; this; site; shop; adobephoto1; what; logiciel; adobe; ado; same; picture; name; AP; adph; adobephot; what; what; the; program; Photoshop; nombre; name; name; company; aps; Adobe; what; title; soft; programme; programma; photos" },
+{ "no" : "3", "key": "ZeZSJ0kjt+AL8cgkuz80MQ==", "text" : "skate; sport; hobby; sk8; board; skateboarding; what; planche; deporte; ride; fun; wheels; what; hobbie; four; favorite; 4; usual; ride; passion; old; kickflip; favorite; esporte; brada; boardskate; what; tony; tabla; skt; sk8board; sk; sb; lol; deck; you; wood; wooden; wood; Sport; skater; skateboards; skateboard1; same; s; rollbrett; plank; password; me" },
+{ "no" : "5", "key": "Q2D3NfuacLzioxG6CatHBw==", "text" : "candy; cat; dog; taste; rainbow; Candy; pet; favorite; food; yum; sweets; yummy; my; sweet; nickname; kitty; usual; Cat; my; meow; dogs; pet; cat's; cat; bird; fav; Dog; taste; skittle; Pet; Macaw; horse; first; fave; skit; puppy; orange; my; me; hamster; doggy; doggie; cats; CANDY; blah; black; woof; type; the" },
+{ "no" : "6", "key": "3oIL0qky7SPxHUX3hQObgQ==", "text" : "web; job; master; me; internet; title; wm; trabajo; occupation; site; same; masterweb; fonction; ???????; website; webmaster123; web; webm; w; que; my; metier; Job; www; what; webmaster1; usual; profession; my; job; email; beroep; work; work; who; whoami; what; what; What; what; webmstr; webmassa; web; web; was; was; vvpsz; trabalho; school" },
+{ "no" : "8", "key": "iXw/pRW+ZxQ=", "text" : "pooh; pig; winnie; animal; nickname; pooh's; oink; usual; dog; winnie; pink; cat; disney; poohs; pet; Pooh; baby; same; pooh; piggy; poo; Pooh's; pooh; wtp; tigger; the; pink; pigs; favorite; small; p; me; cartoon; small; pork; Pink; pet; favourite; favorite; character; Winnie; winniethepooh; tiggers; pooh; po; normal; name; msn; malacka" }
+]}
+}

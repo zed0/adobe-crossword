@@ -1,0 +1,32 @@
+{
+"puzzle": [
+["_","_","g","o","l","d","f","i","s","h","_","_","_"],
+["_","s","_","_","_","_","_","_","_","a","_","j","_"],
+["_","c","_","p","i","n","e","a","p","p","l","e","_"],
+["_","o","_","_","_","_","_","r","_","p","_","s","_"],
+["_","t","_","_","_","_","_","g","_","y","_","u","_"],
+["_","l","_","w","_","_","_","e","_","1","_","s","_"],
+["j","a","m","e","s","b","o","n","d","_","_","c","_"],
+["_","n","_","b","_","_","_","t","_","_","_","h","_"],
+["_","d","_","s","k","y","l","i","n","e","_","r","_"],
+["_","_","_","i","_","_","_","n","_","_","_","i","_"],
+["a","m","s","t","e","r","d","a","m","_","_","s","_"],
+["_","_","_","e","_","_","_","_","_","_","_","t","_"],
+["_","_","_","_","_","_","_","_","_","_","_","_","_"]
+],
+"clues": {
+"across" : [
+{ "no" : "1", "key": "gnqpyaB7elzioxG6CatHBw==", "text" : "fish; pet; gold; animal; water; fishy; usual; bowl; pond; orange; swims; tank; snack; cracker; food; swim; crackers; same; a; it; Fish; type; Pet; normal; in; gf; aquarium; memory; first; password; nickname; my; g; card; bubbles; swims; swimmer; sea; pets; old; its; golden; favorite; cc; ??; yummy; yes; wet" },
+{ "no" : "5", "key": "0onFaxPBnEW5n2auThm2+Q==", "text" : "fruit; fruity; Fruit; pine; food; apple; usual; tropical; tropical; spongebob; hawaii; favorite; a; yellow; yum; same; hawaiian; dog; ananas; ????; pin; nickname; fruits; ??????; spiky; spiky; spikey; spikey; p; name; Hawaiian; Fruity; FRUIT; fruit?; favourite; fav; duh; yellow; yahoo; the; pina; friut; cat; yummy; Usual; sweet; psych; prickly; pizza" },
+{ "no" : "8", "key": "gxGrUK36v5PdK4QGvZvfdQ==", "text" : "007; bond; james; movie; spy; jb; film; usual; actor; hero; secret; agent; JB; the; james; j; martini; ?????; same; oo7; name; my; movie; dog; 7; who; sean; password; nothing; normal; goldeneye; cat; u; the; superhero; spion; shaken; Sean; regular; my; movie; me; Hero; film; film; favourite; favorite; everything; character" },
+{ "no" : "9", "key": "pYfkaf8ui/k=", "text" : "car; nissan; sky; gtr; auto; Car; Nissan; street; favorite; work; cars; carro; ??????; ??; fav; ???; ?; kuruma; ????; voiture; school; r34; my; CAR; a; ?????; usual; lol; GT-R; GTR; favourite; R34; normal; fave; fast; company; bil; none; home; first; coche; band; autos; Auto; ???????; voll; usual; skyline1; s" },
+{ "no" : "10", "key": "7X/2OcmNk8PeyXSMrFwf/w==", "text" : "city; stad; hoofdstad; holland; place; ajax; geboorteplaats; home; woonplaats; plaats; stadt; City; capital; a; ville; ams; town; geboortestad; favorite; ciudad; tulips; holanda; waar; usual; NL; mooiste; mokum; dutch; country; waar; place; holiday; birthplace; adam; 1951; Woonplaats; street; nederland; Holland; geboren; Geboorteplaats; geboorte; europe; Amsterdam; am; where; where; weed; tulpen" }
+],
+"down" : [
+{ "no" : "2", "key": "Pq3/w4xX+I8=", "text" : "happy; smile; mood; usual; sad; dog; same; feeling; me; h1; joy; happyone; state; i; emotion; sad1; pet; none; smile1; not; myspace; glad; hap; I; happy; feel; cat; are; what; the; smile; Smile; normal; how; h; happy?; feelings; what; what; smiles; sad2; mother's; love; hello; are; always; 1; :)" },
+{ "no" : "3", "key": "kOL2CAeCMNLioxG6CatHBw==", "text" : "country; home; place; homeland; Country; usual; my; country; scot; land; Home; born; edinburgh; home; braveheart; mission; place; glasgow; favorite; birth; team; scots; holiday; country; birth; alba; where; north; where; same; favorite; england; birthplace; s; pays; nation; me; i; honeymoon; home; haggis; favourite; favourite; ecosse; birth; vacation; travel; the; sco" },
+{ "no" : "4", "key": "7SuZ1BkpT2ij6wQ7/AUdYg==", "text" : "savior; jesus; god; jc; lord; saviour; Lord; christ; God; my; love; JC; my; GOD; j; cross; son; son; Savior; father; religion; church; bible; Son; king; Jesus; who; usual; the; the; Saviour; name; my; jesus; heaven; My; him; sauveur; salvation; my; my; my; hero; gods; almighty; Who's; saved; My; mylord" },
+{ "no" : "6", "key": "3UW9xJamBU95KSgskb6IRg==", "text" : "pais; country; mi; arg; my; maradona; lugar; donde; place; land; south; tango; perro; patria; Pais; nacionalidad; mipais; Country; mama; home; hola; donde; ciudad; buenos; buenosaires; team; pais; pais; nada; mission; football; country; caca; ar; a; un; soccer; selec?o; rosario; pays; pais; pais; pais; pais; nose; nombre; messi; luka; jaja" },
+{ "no" : "7", "key": "o31LtNmb2so=", "text" : "web; site; internet; purpose; ws; work; project; www; web; online; design; class; business; webpage; usual; hobby; dreamweaver; what; what; what; what; what; websites; school; reason; Internet; etisbew; building; wie; what; what; what; what; what; website1; web; use; usage; page; homepage; computer; .com; why; what; what's; whats; what; what; what" }
+]}
+}

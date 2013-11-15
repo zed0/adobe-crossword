@@ -1,0 +1,33 @@
+{
+"puzzle": [
+["t","_","_","a","1","2","3","4","5","6","_","_","_"],
+["e","_","0","_","2","_","_","_","_","_","_","_","_"],
+["s","_","1","2","3","4","q","w","e","r","_","_","_"],
+["t","_","2","_","4","_","_","_","_","_","_","_","_"],
+["1","2","3","4","5","6","7","8","9","1","0","_","_"],
+["2","_","4","_","6","_","_","8","_","2","_","_","_"],
+["3","_","5","_","a","_","_","8","_","3","_","_","_"],
+["_","_","6","_","_","_","_","8","_","4","_","_","_"],
+["9","8","7","6","5","4","_","8","_","1","_","_","_"],
+["_","_","8","_","_","_","_","8","_","2","_","_","_"],
+["1","5","9","3","5","7","_","8","_","3","_","_","_"],
+["_","_","_","_","_","_","7","8","9","4","5","6","_"],
+["_","_","_","_","_","_","_","_","_","_","_","_","_"]
+],
+"clues": {
+"across" : [
+{ "no" : "2", "key": "0TU3uKPsPhg=", "text" : "a; 123456; ??; 123; numbers; a1; ????; a123; a1-6; a6; same; a16; number; usual; ???; a12; 654321a; numeros; myspace; aaa; a12345; ?; none; easy; normal; ??????; simple; no; 1234; dog; abc; aaaa; 654321; ?????; the; qq; me; aa; 12; password; my; anumeros; always; adobe; aaaaa; a1234; 1; num" },
+{ "no" : "5", "key": "FNr/AqTT8bvioxG6CatHBw==", "text" : "1234; 1q; same; usual; 123; 1; qwer; keyboard; ????; qwer1234; ??; qwerty; easy; 12; rewq4321; 14qr; standard; 12qw; ???; normal; numbers; none; always; 1r; top; password; 4x4; ??????; la; ?????; the; lol; ???????; dog; asdfzxcv; asdf; work; simple; numbers; no; key; first; a; 8; 1q2w3e4r; 123qwe; you; wie" },
+{ "no" : "6", "key": "j9p+HwtWWT+YRcfaHC+Tdw==", "text" : "numeros; numbers; 123; 1-10; 12345; 123456; 123456789; 1; number; 1234; 10; numero; 12; num; ??; del; count; 110; #; ????; Numbers; 1234567891011; no; 1; 1; 1234567; 123...; numeros; numbers; 10987654321; sequence; numeral; nome; nombre; nada; msn; lol; hola; h; diez; 987654321; 1to10; 12345678; 1210; ???; xxx; Tallene; #s; qwerty" },
+{ "no" : "9", "key": "YS9vXcfYsCc=", "text" : "123456; numbers; 456789; numeros; 987; number; 123; ??; 9; num; 98; 9-4; 123456789; 94; 1234; six; numero; 1; 987654321; ????; 98765; ?????; no; backwards; ??????; ???; dog; same; usual; msn; a; normal; hola; countdown; count; 654321; yahoo; x; reverse; perro; none; name; n; love; down; chiffre; a; 96; 6" },
+{ "no" : "10", "key": "v5JObHVIjdI=", "text" : "x; X; 123456; 159; 1; ??; numeros; numbers; 123; 123456789; ?; cruz; cross; ????; num; 357159; number; 1937; 15; ??????; ???; 753951; usual; msn; ?????; xxxxxx; lol; la; 17; x; 15935; 1234; xxx; same; croix; capraz; aol; 12345; 111; yahoo; XXX; xis; senha; numero; mesma; keyboard; hint; eu; blah" },
+{ "no" : "11", "key": "ZhAHR5JJg1Y=", "text" : "789; 123456; numbers; numeros; 7; number; ??; num; ???; 123; 456789; ????; 78; 654987; teclado; numero; 789456123; 78945; 76; ??????; usual; msn; 7-6; yahoo; no; same; 123456789; 1234; ?; 456123; ?????; casa; always; 1; oi; Numbers; nada; lol; dog; 6; 456; zahlen; perro; hola; chiffres; 741852; #; ?????????; ???????" }
+],
+"down" : [
+{ "no" : "1", "key": "2P2yYbuABrc=", "text" : "test; testing; usual; 123; Test; test; t; none; 123test; test?; test1234; exam; test321; t3; t123; standard; name; tester; simple; same; hi; default; common; testonetwothree; ttt; tes; normal; hello; bla; work; what; trial; test; Testing; te; t1; pass; 321tset; what?; try; sanam; pets; pet; pet; blah; ???????; ???; you; testtest" },
+{ "no" : "3", "key": "bx7k/eMGcgw=", "text" : "numbers; 123; 123456; numeros; a; 1; 1-6a; number; 1a; 12; ??; myspace; 16a; 6a; usual; ????; ???; normal; a654321; 1234; num; hola; numero; numbersa; no; la; a123456; 654321a; 123a; 123456b; same; aa; 123456aa; asd; 123456ab; 123456789; #; ??????; numbers; none; facebook; abc; 12345; order; numbera; nada; lol; easy; 1-6" },
+{ "no" : "4", "key": "d8fJq+5iC0nINF+G++BX7w==", "text" : "numeros; 0-9; numbers; 9876543210; 09; 0123; 0; number; 123456789; 123; ??; num; 012; 123456; 0123456; numero; 01; 012345678; ????; 012345; 12345; 1; #; 01234; 0000; ?????; Numeros; ???; standart; Numbers; de; ??????; numeri; no; chiffre; 1234567890; 1234; hola; del; 1-9; 01234567890; lol; 0; zahlen; suite; same; password; count; 0~9" },
+{ "no" : "7", "key": "M/ORJgvoHkzioxG6CatHBw==", "text" : "8; eight; 88; 8x8; ????; ??; number; 8888; 8*8; eight; 12345678; lucky; numbers; eights; ???; ?; ??????; ?????; numero; 999999999; ocho; numeros; same; lucky; 64; 123; la; 99999999; Eight; 8; 8888888; 7777777; ???????; usual; password; ochos; eight; 8?8; 8-8; no; luck; eight; dog; ate; 888888; 888; 666666; 123456; 1234" },
+{ "no" : "8", "key": "XRPu2zMxmHvioxG6CatHBw==", "text" : "1234; numbers; 123; ??; number; 1; ????; 43214321; 12; numeros; ???; usual; num; 4321; 1-4; 1234x2; ?????; normal; no; ???????; ??????; 123456; 1234123; numero; dog; asdf; 1-4x2; 1234; 12344321; 123123; 1111; ????????; simple; Numbers; none; la; easy; count; asd; wie; same; 4; 12345678; #; one; nums; lol; hotmail; a" }
+]}
+}

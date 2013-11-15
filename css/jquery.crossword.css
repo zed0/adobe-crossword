@@ -1,0 +1,115 @@
+/*=================================================================================== 
+	jQuery Crossword Puzzle Plugin
+	http://www.david-sherman.com/projects/jqcw/intro.html	
+	version 1.0
+===================================================================================*/ 
+.clueDiv {
+	width: 110%;
+	height: 100%;
+}
+
+.clueDiv .ui-selecting {
+	background: #79BD9A;
+}
+
+.clueDiv .ui-selected {
+	background: #0B486B;
+	color: white;
+}
+
+.clueDiv {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+
+.clueDiv li {
+	//height: 18px;
+}
+
+.liClue {
+	text-decoration: none;
+	color: black;
+	left-margin: 10px;
+}
+
+.cwTable {
+	background-color: black;
+	border-collapse: separate;
+	border-spacing: 1px;
+	border: 0px;
+	padding: 0px;
+}
+
+.cwRow {
+	margin: 0px;
+	padding: 0px;
+	color: black;
+	background-color: white;
+}
+
+.cwRow>td {
+	border: 0px;
+	margin: 0px;
+	padding: 0px;
+}
+
+.cwCell {
+	z-index: 20;
+	border: 0px;
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+	height: 28px;
+	width: 28px;
+	font-weight: bold;
+	background-color: white;
+}
+
+.cwBlackCell {
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+	height: 28px;
+	width: 28px;
+	background-color: black;
+}
+
+.cwNumber {
+	margin-top: -6px;
+	float: left;
+	font-size: .5em;
+	font-weight: bold;
+	color: black;
+}
+
+#puzzleTable {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#toolbar {
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+	text-align: center;
+}
+
+#acrossContainer, #downContainer {
+	width: 100%;
+	height: 45%;
+	//margin: 0% 2% 2% 2%;
+	float:left;
+	overflow-y:auto;
+	overflow-x:hidden;
+}
+
+.cwCurrentCell {
+	background-color: #A8DBA8;
+}
+
+.cwWrong {
+	background-color: #E71959;
+}
+

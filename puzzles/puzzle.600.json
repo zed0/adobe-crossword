@@ -1,0 +1,32 @@
+{
+"puzzle": [
+["s","_","r","e","a","l","m","a","d","r","i","d","_"],
+["u","_","_","_","_","_","_","d","_","_","_","_","_"],
+["p","_","p","_","c","o","l","o","r","a","d","o","_"],
+["e","_","a","_","h","_","_","b","_","_","_","_","_"],
+["r","_","5","_","a","n","g","e","l","i","c","a","_"],
+["s","_","5","_","n","_","_","f","_","_","_","_","_"],
+["t","_","w","_","g","_","_","l","_","n","_","_","_"],
+["a","d","o","b","e","r","e","a","d","e","r","_","_"],
+["r","_","r","_","m","_","_","s","_","l","_","_","_"],
+["_","_","d","_","e","_","_","h","_","s","_","_","_"],
+["_","_","_","_","_","_","_","_","_","o","_","_","_"],
+["_","_","_","_","t","i","n","t","i","n","_","_","_"],
+["_","_","_","_","_","_","_","_","_","_","_","_","_"]
+],
+"clues": {
+"across" : [
+{ "no" : "2", "key": "8H/rsfw4728jSbh+Uo2SVw==", "text" : "equipo; real; futbol; team; soccer; football; madrid; club; equipo; rm; mi; real; football; raul; ronaldo; favorite; equipo; zidane; soccer; foot; campeon; Team; r; mejor; football; espa?a; equipo; equipo; Equipo; equipe; ekipo; deporte; blanco; yo; voetbal; siempre; RM; rea; mi; klub; iker; hola; galacticos; fotboll; fotbal; footy; equipo; ekipo; best" },
+{ "no" : "5", "key": "pl5WiuK2/53ioxG6CatHBw==", "text" : "state; home; State; time; home; inter; favorite; place; truck; denver; mountains; co; hockey; favorite; color; usual; ski; usa; state; Home; team; meu; street; same; c; avalanche; where; stat; snow; skiing; red; where; vacation; Time; rojo; river; fav; etat; dog; colo; born; where?; USA; state; standard; school; my; Mountains" },
+{ "no" : "6", "key": "uGUvTIOkJlTioxG6CatHBw==", "text" : "name; daughter; nombre; angel; hija; my; angie; mi; sister; esposa; amor; yo; novia; mama; cat; rugrats; baby; wife; girl; me; sis; nome; middle; usual; an; mi; angy; ange; ang; a; mujer; mom; madre; hola; hermana; daughters; nickname; mi; love; ella; dog; angi; amiga; second; rugrat; pets; pet; namn; myname" },
+{ "no" : "8", "key": "wstSRNTKwz7zWtHl69lRxw==", "text" : "adobe; reader; adobe; program; software; name; product; program; programa; what; website; pdf; ar; product; site; name; logiciel; Adobe; Adobe; same; Program; adober; site; read; programma; what; what; software; nombre; company; ad; what; nombre; name; what; what; title; programme; programm; name; adobereader1; Adobe; adobereade; website; this; the; readeradobe; Reader; programmname" },
+{ "no" : "9", "key": "1X3IdymY4NE=", "text" : "milou; nickname; snowy; cartoon; herge; tin; name; dog; comic; surnom; bd; usual; cat; t; nick; chien; me; son; reporter; pet; my; Milou; hund; hero; haddock; ten; fils; BD; Snowy; mon; milu; katt; et; cartoon; ????; terry; pets; nick; my; love; kuifje; Dog; comic; christine; Cartoon; wife; Usual; tt; tonton" }
+],
+"down" : [
+{ "no" : "1", "key": "JZ6M7xBsniDxHUX3hQObgQ==", "text" : "star; super; me; movie; usual; what; i; what; the; sup; ss; same; what; what; password; hero; normal; yahoo; moi; what; snl; sky; rajini; molly; famous; what; s; I; hotmail; you; what; Star; song; nickname; molly; ghetto; facebook; estrella; email; you; What; su; rockstar; regular; none; msn; everything; zoals; you" },
+{ "no" : "3", "key": "Mkyyq2oDgVYeCrRSWUbvPQ==", "text" : "adobe; flash; adobe; product; software; program; programa; flashadobe; name; af; site; product; player; company; adobef; a; this; name; adobe; ????????; what; software; name; adobe_flash; Adobe; what; program; logiciel; company; companyproduct; what; what; producto; name; flash; flash; Flash; AF; Adobe; what; what?; website; web; this; the; the; softwarename; same; produto" },
+{ "no" : "4", "key": "pIjmc+3/mLzioxG6CatHBw==", "text" : "password; 55; pass; usual; Password; normal; same; pw; password?; standard; hint; word; Usual; pa55; p5; easy; p; the; none; duh; work; pwd; password; password; PASSWORD; pa; obvious; you; pword; password; password; Password?; name; five; dog; default; 5; wordpa55; what; usual; Same; regular; pa**word; pas; number; my; guess; GE" },
+{ "no" : "5", "key": "1AFHfy4QL7LioxG6CatHBw==", "text" : "change; same; change; usual; me; comcast; change; reset; work; cm; Change; what; school; password; none; default; change; changes; ch; Library; library; Default; change; hint; email; change; chan; the; normal; name; library; do; dog; diaper; change; changewho; changeme1; changeit; typical; standard; school; same; regular; office; null; mechange; different; chme; change" },
+{ "no" : "7", "key": "rvc2JmwvBl4=", "text" : "dog; name; cat; last; maiden; chien; middle; pet; middle; hund; nel; n; nombre; my; mothers; maiden; husband; dogs; hond; dad; admiral; trafalgar; son; mother's; my; mom; Dog; me; mandela; brother; usual; street; mother; chat; cats; town; old; mi; father; dog; dead; company; boyfriend; bird; woof; victory; surname; parrot; madiba" }
+]}
+}
