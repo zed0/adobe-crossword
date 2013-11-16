@@ -1,7 +1,9 @@
 /*======================================
 jQuery Crossword Puzzle Plugin
+Originally by David Sherman from:
 http://www.david-sherman.com/projects/jqcw/intro.html
-version 1.0
+Updated by Ben Falconer
+version 2.0
 ========================================*/
 
 var crossword = {};
