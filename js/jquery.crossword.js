@@ -6,7 +6,7 @@ version 1.0
 
 var crossword = {};
 
-(function( $ ){
+(function($){
 /*=====================================
 jQuery UI Bootstrap stuff
 =======================================*/
@@ -22,7 +22,7 @@ jQuery UI Bootstrap stuff
 				'downContainer'		: "#downContainer", // id of down clues display DIV
 				'revealButton'		: "#revealButton", // id of reveal button
 				'hideButton'		: "#hideButton", // id of hide button
-				'checkButton'		: "#checkButton", // id of hide button
+				'checkButton'		: "#checkButton" // id of hide button
 			});
 		});
 	});
@@ -41,7 +41,6 @@ use global _cwo CrossWord Object to store the puzzle, the clues a few commonly u
 
 		// adjust these as desired to control starting position and direction, and current cell color
 
-		crossword.currCell = "";
 		crossword.currRow = "0";
 		crossword.currCol = "0";
 		crossword.direction = "across";
@@ -71,10 +70,13 @@ Build the puzzle inside a standard HTML table.  Each <td> in the table is assign
 				td.appendChild(numDiv);
 
 				var character = crossword.puzzle[i][j];
-				var div = document.createElement('div');
+				var div = document.createElement('input');
+				div.type = "text";
+				$(div).attr('maxlength', '1');
 				if(character == crossword.BLACKCELL)
 				{
 					div.className = "cwBlackCell";
+					$(div).attr('disabled','disabled');
 				}
 				else
 				{
@@ -122,7 +124,7 @@ Use the JQuery Data feature to associate the following pieces of information wit
 					}
 				}
 				$(id).data("answer", c);
-				$(id).data("player", " ");
+				$(id).data("player", "");
 				$(id).data("number", (numberCell?number++:0));
 				$(id).data("row", i);
 				$(id).data("col", j);
@@ -134,24 +136,24 @@ Use the JQuery Data feature to associate the following pieces of information wit
 		setUpClues(crossword.acrossContainer, crossword.clues.across, "A");
 		setUpClues(crossword.downContainer, crossword.clues.down, "D");
 
-		$('.cwCell').unbind('click');
-		$('.liClue').unbind('click');
-		$('*').unbind('keydown');
-		$('*').unbind('keypress');
-		$('.cwCell').bind('click',function(event){cellClick(event)});
-		$('.liClue').bind('click',function(event){clueClick(event)});
-		$('*').bind('keydown',function(event){keyDown(event)});
-		$('*').bind('keypress',function(event){keyPress(event)});
+		$('.cwCell').off('click');
+		$('.liClue').off('click');
+		$('*').off('keydown');
+		$('*').off('keypress');
+		$('.cwCell').on('focus',function(event){cellFocus(event)});
+		$('.cwCell').on('input',function(event){cellChange(event)});
+		$('.cwCell').on('mouseup',function(event){event.preventDefault();});
+		$('.liClue').on('click',function(event){clueClick(event)});
+		$('*').on('keydown',function(event){keyDown(event)});
 
 		// Attach functionality to buttons..
-		$(crossword.revealButton).bind('click');
-		$(crossword.hideButton).bind('click');
-		$(crossword.checkButton).bind('click');
-		$(crossword.revealButton).bind('click', function(event, ui){paintPuzzle('answer')});
-		$(crossword.hideButton).bind('click', function(event, ui){paintPuzzle('player')});
-		$(crossword.checkButton).bind('click', function(event, ui){paintPuzzle('check')});
-		moveToCell("C0");
-		$("#" + cellID(crossword.currRow, crossword.currCol)).click();
+		$(crossword.revealButton).off('click');
+		$(crossword.hideButton).off('click');
+		$(crossword.checkButton).off('click');
+		$(crossword.revealButton).on('click', function(event, ui){paintPuzzle('answer')});
+		$(crossword.hideButton).on('click', function(event, ui){paintPuzzle('player')});
+		$(crossword.checkButton).on('click', function(event, ui){paintPuzzle('player'); paintPuzzle('check')});
+		$("#" + cellID(crossword.currRow, crossword.currCol)).focus();
 	};
 })(jQuery);
 
@@ -178,54 +180,61 @@ function keyDown(event)
 	if(event.which == 37)
 	{
 		goAcross(true);
-		$("#" + cellID(crossword.currRow, crossword.currCol)).click();
+		$("#" + cellID(crossword.currRow, crossword.currCol)).focus();
+		event.preventDefault();
 	}
 	if(event.which == 38)
 	{
 		goDown(true);
-		$("#" + cellID(crossword.currRow, crossword.currCol)).click();
+		$("#" + cellID(crossword.currRow, crossword.currCol)).focus();
+		event.preventDefault();
 	}
 	if(event.which == 39)
 	{
 		goAcross(false);
-		$("#" + cellID(crossword.currRow, crossword.currCol)).click();
+		$("#" + cellID(crossword.currRow, crossword.currCol)).focus();
+		event.preventDefault();
 	}
 	if(event.which == 40)
 	{
 		goDown(false);
-		$("#" + cellID(crossword.currRow, crossword.currCol)).click();
+		$("#" + cellID(crossword.currRow, crossword.currCol)).focus();
+		event.preventDefault();
 	}
 }
 
-function keyPress(event)
+function cellChange(event)
 {
-	if(event.currentTarget.tagName != "HTML")
+	$(event.target).data('player', event.target.value);
+	if(event.target.value != '')
 	{
-		return;
+		if(crossword.direction == 'across')
+		{
+			goAcross(false);
+			if(event.target.id == cellID(crossword.currRow, crossword.currCol))
+			{
+				goDown(false);
+			}
+		}
+		else
+		{
+			goDown(false);
+			if(event.target.id == cellID(crossword.currRow, crossword.currCol))
+			{
+				goAcross(false);
+			}
+		}
+		$("#" + cellID(crossword.currRow, crossword.currCol)).focus();
 	}
-	var character = String.fromCharCode(event.keyCode);
-	if(!/\S/.test(character))
-	{
-		return;
-	}
-	$(crossword.currCell).data('player', character);
-	paintCell(crossword.currCell, 'player');
-	if(crossword.direction == 'across')
-	{
-		goAcross(false);
-	}
-	else
-	{
-		goDown(false);
-	}
-	$("#" + cellID(crossword.currRow, crossword.currCol)).click();
 }
 
-function cellClick(event)
+function cellFocus(event)
 {
-	moveToCell("#" + event.currentTarget.id);
+	crossword.currRow = $(event.target).data('row');
+	crossword.currCol = $(event.target).data('col');
 	alignClue("A", crossword.clues["across"]);
 	alignClue("D", crossword.clues["down"]);
+	$(event.target).select();
 }
 
 function clueClick(event)
@@ -252,21 +261,11 @@ function clueClick(event)
 			var id = "#" + cellID(i, j);
 			if($(id).data('number') == clueNumber)
 			{
-				$(id).click();
+				$(id).focus();
 				return;
 			}
 		}
 	}
-}
-
-function moveToCell(id)  // put the cursor in the given cell 
-{
-	$(crossword.currCell).removeClass('cwCurrentCell');
-	$(id).addClass('cwCurrentCell');
-	crossword.currRow = $(id).data('row');
-	crossword.currCol = $(id).data('col');
-	crossword.currCell = "#" + cellID(crossword.currRow, crossword.currCol);
-	$(crossword.currCell).focus();
 }
 
 function alignClue(direction, clues)
@@ -418,12 +417,12 @@ function paintCell(id, selector) // display either the answer or the player's cu
 	{
 		return;
 	}
-	if((selector == 'player') && (value == ' ') && (0 < $(id).data("number")))
+	if((selector == 'player') && (0 < $(id).data("number")))
 	{
 		$(numID).text($(id).data("number"))
 	}
 	$(id).removeClass('cwWrong');
-	$(id).text(value);
+	$(id).val(value);
 }
 
 function checkCell(id) // Check the players input and the answer match
@@ -432,7 +431,7 @@ function checkCell(id) // Check the players input and the answer match
 	{
 		return;
 	}
-	if(($(id).data('player') != ' ') && $(id).data('player') != $(id).data('answer'))
+	if(($(id).data('player') != '') && $(id).data('player') != $(id).data('answer'))
 	{
 		$(id).addClass('cwWrong');
 	}

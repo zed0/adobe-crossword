@@ -1,34 +1,34 @@
 {
 "puzzle": [
-["_","_","s","_","_","j","_","m","_","l","_","_","_"],
-["_","c","h","o","c","o","l","a","t","e","_","_","_"],
-["_","_","a","_","_","r","_","c","_","t","_","_","_"],
-["_","_","d","_","_","d","_","r","_","m","_","_","_"],
-["a","d","o","b","e","a","d","o","b","e","_","_","_"],
-["_","_","w","_","_","n","_","m","_","i","_","_","_"],
-["_","m","_","a","_","_","_","e","_","n","_","_","_"],
-["p","a","s","s","w","o","r","d","1","_","_","_","_"],
-["_","t","_","d","_","_","_","i","_","t","_","_","_"],
+["_","a","z","e","r","t","y","_","_","_","_","_","_"],
+["_","s","_","_","_","h","_","_","_","c","_","_","_"],
+["_","d","_","_","_","o","_","a","_","h","_","_","_"],
+["m","a","c","r","o","m","e","d","i","a","_","_","_"],
+["_","s","_","_","_","a","_","o","_","r","_","_","_"],
+["_","d","_","b","a","s","e","b","a","l","l","_","_"],
+["f","_","_","_","_","_","_","e","_","i","_","_","_"],
 ["d","r","e","a","m","w","e","a","v","e","r","_","_"],
-["_","i","_","s","_","_","_","_","_","s","_","_","_"],
-["_","x","_","d","_","q","w","e","r","t","y","_","_"],
+["s","_","_","_","_","_","_","d","_","_","_","t","_"],
+["a","_","_","c","h","o","c","o","l","a","t","e","_"],
+["_","_","_","_","_","_","_","b","_","_","_","s","_"],
+["a","l","e","x","a","n","d","e","r","_","_","t","_"],
 ["_","_","_","_","_","_","_","_","_","_","_","_","_"]
 ],
 "clues": {
 "across" : [
-{ "no" : "5", "key": "vp6d18mfGL+5n2auThm2+Q==", "text" : "food; candy; yummy; yum; sweet; choco; dulce; favorite; fav; favourite; choc; doce; brown; comida; dog; sweets; favorite; fave; mmm; flavor; Food; usual; rico; cho; ??????; cocoa; ???; sabor; eat; c; mmmm; favorite; dark; cat; hershey; cadburys; yum; yumm; Yum; tasty; Favorite; hersheys; ch; mmmmm; coco; perro; Yummy; dessert; Candy" },
-{ "no" : "6", "key": "2aZl4Ouarwm52NYYI936YQ==", "text" : "adobe; adobex2; adobe2; adobe; twice; adobetwice; adobe2x; site; ??????; name; software; 2x; company; 2xadobe; programa; adobe; program; adobe; ???; ad; adobe*2; ????; Adobe; double; namename; 2adobe; ?????; x2; a; name; photoshop; company; adobe; adobe?; ado; aa; company; 2; marca; website; none; adobe; product; company; adobeX2; this; logiciel; ??; ???????" },
-{ "no" : "9", "key": "L8qbAD3jl3jSPm/keox4fA==", "text" : "password; pass; usual; p1; pw1; same; passwordone; pass1; 1; easy; password; duh; normal; pw; myspace; hint; Password; the; p; one; password?; word; none; work; password; obvious; standard; password+1; always; first; simple; password; my; facebook; pwd1; password#; what; same; dog; default; generic; email; Usual; regular; name; you; pword1; password; me" },
-{ "no" : "11", "key": "7Z6uMyq9bpxe1EB7HijrBQ==", "text" : "software; dream; program; product; adobe; product; dw; software; website; logiciel; program; programa; web; name; web; name; macromedia; name; name; programma; webdesign; programme; programm; web; download; web; dream; the; site; prog; DW; application; this; sleep; produkt; html; dreamweaver1; dreamw; cs4; class; Programm; dreams; d; app; weaver; soft; CS3; what; this" },
-{ "no" : "12", "key": "5djv7ZCI2ws=", "text" : "keyboard; ytrewq; q; qw; qwe; asdfgh; qwert; key; 123456; teclado; qy; keys; qwer; usual; Keyboard; qwerty1; clavier; easy; same; asdfg; type; none; asdf; qwertyu; tastiera; 6; qwertyuiop; ??????; q-y; first; azerty; asd; letters; top; toetsenbord; normal; 123; dog; top; ?????; lol; top; Q; 6; simple; a; kb; no; qwertyqwerty" }
+{ "no" : "1", "key": "hjAYsdUA4+k=", "text" : "clavier; qwerty; ytreza; az; a; aze; azer; qsdfgh; toetsenbord; azertyuiop; azert; ay; clav; azertyu; clavier francais; keyboard; lol; 123456; klavier; rien; moi; facile; 1; simple; clavier fr; uiop; querty; key; comme d'hab; Clavier; ordi; toto; chat; aqwzsx; qsdfg; debut; test; poiuyt; maman; azerty1; wxcvbn; debut clavier; chien; 123; ordinateur; normal; alphabet; abc; 6; 123456789" },
+{ "no" : "5", "key": "WqflwJFYW3+PszVFZo1Ggg==", "text" : "macro; adobe; flash; software; mac; company; programa; dreamweaver; site; program; company name; old company name; old company; Flash; product name; software name; not adobe; name; mm; ma; freehand; before adobe; Adobe; this; product; old name; flash company; ???????; macromedi; empresa; producto; old adobe; macro...; macr; fireworks; aidemorcam; website; this site; this company; pagina; macromedia is the password; macro media; macrom; where am i; studio; mx; marca; manufacturer; flash player; dise?o" },
+{ "no" : "6", "key": "lVwka/Mn8TPioxG6CatHBw==", "text" : "sport; favorite sport; sports; game; ball; Sport; fav sport; base; Favorite Sport; usual; Favorite sport; bat; same; my sport; yankees; bb; a sport; ??; my favorite sport; bball; cubs; sport?; none; hit; summer sport; Sports; favorite game; baseball1; redsox; b; favorite;  ; you know; red sox; mets; homerun; Game; dog; phillies; me; fav. sport; sport i play; pastime; football; duh; best sport; balls; sporty; normal; job" },
+{ "no" : "8", "key": "7Z6uMyq9bpxe1EB7HijrBQ==", "text" : "software; dream; program; product; adobe; product name; dw; software name; website; logiciel; program name; programa; web; name of software; web design; name; macromedia; name of program; name of product; programma; webdesign; programme; programm; web program; download; web software; dream weaver; the program; site; prog; DW; application; this program; sleep; produkt; html; dreamweaver1; dreamw; cs4; class; Programm; dreams; d; app; weaver; soft; CS3; what is this; this; none" },
+{ "no" : "10", "key": "vp6d18mfGL+5n2auThm2+Q==", "text" : "food; candy; yummy; yum; sweet; choco; dulce; favorite food; fav food; favourite food; choc; doce; brown; comida; dog; sweets; favorite candy; fave food; mmm; flavor; Food; usual; rico; cho; ??????; cocoa; ???; sabor; eat; c; mmmm; favorite; dark; cat; hershey; cadburys; yum yum; yumm; Yum; tasty; Favorite food; hersheys; ch; mmmmm; coco; perro; Yummy; dessert; Candy; favorite flavor" },
+{ "no" : "11", "key": "kAtMKrzaD6jxHUX3hQObgQ==", "text" : "son; name; alex; middle name; middle; grandson; sons name; nombre; son's name; brother; my name; hijo; me; sohn; Name; the great; boy; a; bro; nephew; Son; baby; my son; Sohn; dog; last name; usual; dad; sun; husband; child; mi nombre; al; yo; mein name; maiden name; amor; cat; great; freund; ale; ich; navn; boyfriend; Alex; son name; naam; kid; hubby; zoon" }
 ],
 "down" : [
-{ "no" : "1", "key": "zk8NJgAOqc4=", "text" : "dog; cat; pet; dark; dogs; Dog; my; black; dog; dog's; darkness; black; sonic; black; kitty; horse; Cat; pets; sombra; puppy; cats; old; shade; first; pet; doggy; hedgehog; cat's; bike; my; nickname; Pet; me; light; favorite; usual; sha; doggie; pet's; first; animal; sh; shad; s; car; first; Dog's; chien; favorite" },
-{ "no" : "2", "key": "FTeB5SkrOZM=", "text" : "son; name; daughter; dog; grandson; my; 23; sons; basketball; michael; me; nephew; baby; kid; son's; boy; bball; mj; middle; brother; cat; boyfriend; my; j; basket; granddaughter; girl; bulls; fils; bro; Son; middle; last; country; sun; shoes; mike; child; pet; jor; daughters; Daughter; your; usual; sister; love; husband; river; my" },
-{ "no" : "3", "key": "WqflwJFYW3+PszVFZo1Ggg==", "text" : "macro; adobe; flash; software; mac; company; programa; dreamweaver; site; program; company; old; old; Flash; product; software; not; name; mm; ma; freehand; before; Adobe; this; product; old; flash; ???????; macromedi; empresa; producto; old; macro...; macr; fireworks; aidemorcam; website; this; this; pagina; macromedia; macro; macrom; where; studio; mx; marca; manufacturer; flash" },
-{ "no" : "4", "key": "yxzNxPIsFno=", "text" : "let; let; usual; knock; lmi; open; enter; in; the; standard; door; open; open; same; knock; normal; open; letme; access; none; easy; password; knockknock; sage; Let; what; let; letmeout; what; please; now; open; get; me; Let; what; let; I; default; openup; l; entry; where; i; LMI; work; usual; Usual; how" },
-{ "no" : "7", "key": "e21tszGBy4k=", "text" : "movie; film; neo; pelicula; filme; Film; favorite; Neo; Movie; m; peli; usual; mat; fav; keanu; ma; dog; lol; work; same; reloaded; the; favourite; ??; trinity; morpheus; company; a; ?????; what; the; normal; mx; mov; lieblingsfilm; Filme; fav; car; wie; password; none; Lieblingsfilm; keanu; hola; company; best; best; ???; ?" },
-{ "no" : "8", "key": "WlMTLimQ5b4=", "text" : "asd; dsadsa; asdasdasd; a; qweqwe; as; 123123; dsa; asdas; 123456; asdx2; asdasda; lol; asdasdasdasd; asdasd1; asd; 123; usual; ad; asd2; aaa; qwe; asd?; same; das; asdasdd; asd123; ???; ??; sss; none; dasdas; asddsa; ????; zxczxc; no; hi; aaaaaa; aa; qwerty; normal; la; easy; d; asdfgh; asdasd123; sdf; letters; keyboard" },
-{ "no" : "10", "key": "L3uQHNDF6Mw=", "text" : "testfrage; test-1; i; hello" }
+{ "no" : "1", "key": "WlMTLimQ5b4=", "text" : "asd; dsadsa; asdasdasd; a; qweqwe; as; 123123; dsa; asdas; 123456; asdx2; asdasda; lol; asdasdasdasd; asdasd1; asd asd; 123; usual; ad; asd2; aaa; qwe; asd?; same; das; asdasdd; asd123; ???; ??; sss; none; dasdas; asddsa; ????; zxczxc; no; hi; aaaaaa; aa; qwerty; normal; la de siempre; easy; d; asdfgh; asdasd123; sdf; letters; keyboard; asda" },
+{ "no" : "2", "key": "r/OONiXT+Ko=", "text" : "son; name; cat; middle name; husband; middle; fils; tom; my name; me; brother; dad; last name; sons name; dog; boyfriend; boy; grandson; prenom; nephew; first name; usual; maiden name; bro; hubby; t; Son; pet; love; son's name; baby; zoon; your name; Name; ich; frere; tommy; train; mid; th; maiden; ex; same; naam; first son; bf; Vorname; moi; vorname; my son" },
+{ "no" : "3", "key": "ldvmctKdeN8=", "text" : "dog; cat; pet; son; name; dogs name; nickname; Dog; my dog; husband; dog's name; bird; me; daughter; dog name; horse; dad; usual; pets name; first dog; brother; doggie; my name; grandson; chien; pet name; baby; nephew; boy; puppy; cats name; woof; hund; old dog; Cat; sons name; doggy; my cat; brown; pup; kitty; c; animal; friend; chat; ch; Hund; boyfriend; pet's name; hubby" },
+{ "no" : "4", "key": "2aZl4Ouarwm52NYYI936YQ==", "text" : "adobe; adobex2; adobe2; adobe twice; twice; adobetwice; adobe2x; site; ??????; name; software; 2x; company; 2xadobe; programa; adobe x 2; program; adobe x2; ???; ad; adobe*2; ????; Adobe; double; namename; 2adobe; ?????; x2; a; name twice; photoshop; company name; adobe adobe; adobe?; ado; aa; company twice; 2; marca; website; none; adobe 2x; product; company name twice; adobeX2; this; logiciel; ??; ???????; what is this" },
+{ "no" : "7", "key": "OrzNCxMfwrw=", "text" : "sdf; qwert; junk; fdsa" },
+{ "no" : "9", "key": "L3uQHNDF6Mw=", "text" : "testfrage; test-1; i am tester and i test i testit; hello;       1 " }
 ]}
 }

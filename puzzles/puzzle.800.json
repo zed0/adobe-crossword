@@ -1,34 +1,33 @@
 {
 "puzzle": [
-["_","_","e","_","_","e","n","i","g","m","a","_","_"],
-["b","_","n","_","p","_","_","d","_","y","_","_","_"],
-["o","_","g","_","a","_","_","o","_","p","_","_","_"],
-["b","_","l","i","n","k","i","n","p","a","r","k","_"],
-["b","_","a","_","a","_","_","t","_","s","_","_","_"],
-["o","_","n","_","s","_","_","k","_","s","_","g","_"],
-["b","a","d","b","o","y","_","n","_","w","_","i","_"],
-["_","u","_","_","n","_","_","o","_","o","_","b","_"],
-["_","r","_","f","i","r","e","w","o","r","k","s","_"],
-["_","o","_","_","c","_","_","_","_","d","_","o","_"],
-["_","r","_","_","_","_","_","_","_","_","_","n","_"],
-["x","a","v","i","e","r","_","_","_","_","_","_","_"],
+["_","_","l","i","n","k","i","n","p","a","r","k","_"],
+["_","_","_","_","_","_","_","_","h","_","_","k","_"],
+["p","p","p","p","p","p","_","_","o","_","_","k","_"],
+["_","_","_","_","a","_","_","_","t","_","_","k","_"],
+["_","i","d","o","n","t","k","n","o","w","_","k","_"],
+["_","_","_","_","a","_","_","_","g","_","_","k","_"],
+["m","y","p","a","s","s","w","o","r","d","_","_","_"],
+["_","o","_","_","o","_","_","_","a","_","_","_","_"],
+["_","y","_","_","n","_","m","_","p","_","_","_","_"],
+["t","o","s","h","i","b","a","_","h","_","_","_","_"],
+["_","y","_","_","c","_","n","_","_","_","_","_","_"],
+["_","o","_","_","_","a","u","r","o","r","a","_","_"],
 ["_","_","_","_","_","_","_","_","_","_","_","_","_"]
 ],
 "clues": {
 "across" : [
-{ "no" : "2", "key": "xWb20tyJkFc=", "text" : "mystery; puzzle; music; usual; riddle; e; password; eni; elgar; band; ?; secret; nickname; song; unknown; normal; wie; ultra; the; same; Puzzle; none; Mystery; mysterious; me; line; enigmatic; always; ??; strange; question; misterio; horse; en; company; code; a; standard; sadness; return; pet; old; nothing; name; jeff; it's; german; geheim; favorite" },
-{ "no" : "7", "key": "OBeREYOJOdRUb2WG8oeD6w==", "text" : "band; lp; LP; banda; linkin; favorite; Band; fav; music; linkin; chester; park; rock; link; groupe; grupo; musica; grupo; a; mike; lol; lin; fave; rock; msn; meteora; group; numb; Music; intheend; hi; gruppo; gruppo; groep; favourite; Favorite; band; banda; artist; 123456; 1234; ???????; ???; ??; you; yeah; Ya; what; song" },
-{ "no" : "9", "key": "0iL6tZVnSNU=", "text" : "bad; me; bb; what; movie; boy; usual; naughty; b; name; goodboy; diddy; bd; badboy1; whos; tattoo; normal; email; boybad; same; my; mal; i; goodgirl; dog; cops; ????; yahoo; will; what; what; sempre; ring; puff; p.diddy; pdiddy; nakal; motorcycle; moi; mean; malo; love; lol; hotmail; film; evil; Diddy; chico; boser" },
-{ "no" : "11", "key": "yMbOvpXCtmLn1QXGvHdh5g==", "text" : "fire; bang; software; programa; adobe; program; boom; macromedia; product; 4th; name; product; name; fw; firework; 4th; name; logiciel; software; programm; pictures; halloween; fire; application; ??; usual; this; the; pyrotechnics; programme; producto; november; nome; name; name; lights; july4; feu; f; design; bonfire; bonfire; big; 4th; ????; what; what; what; what" },
-{ "no" : "12", "key": "sIeuc0eewfo=", "text" : "son; name; school; prenom; x; middle; grandson; middle; son's; moi; fils; dog; college; my; xmen; sun; sons; my; baby; nombre; bro; nom; me; son; Son; nephew; mi; hijo; frere; enfant; cheri; boy; xa; same; petit-fils; none; mon; garcon; 2nd; yo; x-man; usual; university; School; Professor; normal; nigga; husband; Grandson" }
+{ "no" : "1", "key": "OBeREYOJOdRUb2WG8oeD6w==", "text" : "band; lp; LP; banda; linkin; favorite band; Band; fav band; music; linkin park; chester; park; rock; link; groupe; grupo; musica; grupo favorito; a band; mike; lol; lin; fave band; rock band; msn; meteora; group; numb; Music; intheend; hi; gruppo preferito; gruppo; groep; favourite band; Favorite Band; band name; banda favorita; artist; 123456; 1234; ???????; ???; ??; you know; yeah; Ya; what i've done; song; singer" },
+{ "no" : "4", "key": "m8zuV1WPlmI=", "text" : "p; 6p; p6; ppp; pp; oooooo; ppppp; 6; pepe; pppp; ppppppp; 6ps; 123456; px6; P; name; letter; usual; qqqqqq; pee; p*6; 6xp; ????; p's; pppppppp; popopo; password; love; lol; lmno; dog; a; 6 ps; ??????; ??; whats in a name?; Usual; The usual; six pees; six peas; same; pussy; puras p; prokko; pppppppppppppppp; p p p p p p; pop; pink; pees; p=6" },
+{ "no" : "6", "key": "XmfyqDj4kvvRoNtOqGpYRw==", "text" : "i dont know; idk; ?; what; do you know?; do you know; what?; know; huh; not sure; who knows; what do you know; what is it?; what do you know?; ???; you know; idont; Do you know?; dont know; who knows?; nothing; i don't know; i; dontknow; what is your password; usual; password; nose; iknow; idontknow1; I don't know; duh; clueless; what is it; What?; normal; no idea; lol; know?; hmmmm; dunno; do u know?; dog; ??; What's your password?; unknown; the usual; same; no se; none" },
+{ "no" : "7", "key": "nllxz+LnRicL8cgkuz80MQ==", "text" : "password; my password; mine; my; pass; your password; usual; mp; what is my password; same; always; password?; myp; easy; mypass; its mine; who's password; none; My Password; my pass; it's mine; duh; yourpassword; what is your password; mpw; me; hint; what it is; What is my password?; what is my password?; what is it?; what is it; what; this is my password; standard; pw; passwordmy; Password; my password?; Mine; who's password?; whose password; whose; usual password; simple; normal; no; adobe; Your password; whos password" },
+{ "no" : "10", "key": "rDlkw/V28VI=", "text" : "laptop; computer; pc; tv; comp; t; ordi; brand; company; work; Laptop; lap; PC; ordinateur; notebook; laptop name; ??; tosh; tos; marca; first laptop; Computer; television; ordenador; computer name; usual; TV; toshi; to; name; my computer; laptop brand; ???; satellite; portable; lap top; dog; compu; you know; whatever; werk; tele; portatil; phone; old laptop; normal; my laptop; monitor; marque; lol" },
+{ "no" : "11", "key": "A3M+qH6+BOM=", "text" : "name; daughter; sleeping beauty; princess; dog; mama; borealis; usual; car; a; nombre; dawn; city; town; middle name; bimba; ????; wife; northern lights; lights; light; company; cat; baby; sky; novia; mom; mia figlia; hija; datter; aura; sister; my name; mother; me; madre; ice; figlia; au; abuela; yo; work; sunrise; street; standard; school; pet; nose; northern; nome figlia" }
 ],
 "down" : [
-{ "no" : "1", "key": "/Sej1XMNUQE=", "text" : "country; home; uk; football; london; place; eng; my; usual; Country; UK; team; home; e; land; football; country; name; insel; born; 1966; nation; mom; me; inglaterra; english; birth; where; Home; favorite; britain; where?; travel; same; rugby; place; Place; normal; mum; mission; last; homeland; fav; country; birth; beckham; where; where; where" },
-{ "no" : "3", "key": "XmfyqDj4kvvRoNtOqGpYRw==", "text" : "i; idk; ?; what; do; do; what?; know; huh; not; who; what; what; what; ???; you; idont; Do; dont; who; nothing; i; i; dontknow; what; usual; password; nose; iknow; idontknow1; I; duh; clueless; what; What?; normal; no; lol; know?; hmmmm; dunno; do; dog; ??; What's; unknown; the; same; no" },
-{ "no" : "4", "key": "nllxz+LnRicL8cgkuz80MQ==", "text" : "password; my; mine; my; pass; your; usual; mp; what; same; always; password?; myp; easy; mypass; its; who's; none; My; my; it's; duh; yourpassword; what; mpw; me; hint; what; What; what; what; what; what; this; standard; pw; passwordmy; Password; my; Mine; who's; whose; whose; usual; simple; normal; no; adobe; Your" },
-{ "no" : "5", "key": "L6XmA6hhY+Y=", "text" : "bob; name; bobx2; b; bobby; Bob; bob2; dog; robert; none; me; bob; same; dylan; bob?; usual; pet; namename; marley; lol; fish; bob; bo; 2bob; who; who?; pie; name; meme; hello; Bob; bob; bob; blah; bb; 2; yes; who; ure; tyshwa; two; the; the; the; the; spouse; robby2; rob; ok" },
-{ "no" : "6", "key": "ut+EbGLSDgtipf5lD4vhUg==", "text" : "tv; pana; phone; camera; pan; TV; radio; marca; monitor; usual; stereo; p; telefono; pa; computer; company; mobile; ????; television; electronics; tele; brand; battery; the; sony; same; dvd; work; televisor; telephone; name; make; kamera; printer; hotmail; hola; fax; equipo; cam; audio; ??????; ?????; ???; ??; wie; type; TV?; telefon; tape" },
-{ "no" : "8", "key": "9mJFfb6Yxvc=", "text" : "guitar; dog; Guitar; guitare; les; guitarra; name; maiden; last; my; cat; usual; g; my; mothers; guitar; Dog; sg; mel; maiden; hund; gitarre; gib; fender; epiphone; axe; sean; pet; les; lastname; gitaar; chitarra; SG; mum; dog's; banjo; ???????; type; not; mom; favorite; family; dogs; dad; actor; work; william; Usual; the" },
-{ "no" : "10", "key": "A3M+qH6+BOM=", "text" : "name; daughter; sleeping; princess; dog; mama; borealis; usual; car; a; nombre; dawn; city; town; middle; bimba; ????; wife; northern; lights; light; company; cat; baby; sky; novia; mom; mia; hija; datter; aura; sister; my; mother; me; madre; ice; figlia; au; abuela; yo; work; sunrise; street; standard; school; pet; nose; northern" }
+{ "no" : "2", "key": "B4R5DQW/VNNZbpAuQ9EGxw==", "text" : "hobby; camera; photo; pictures; job; passion; what i do; career; photos; picture; what I do; business; profession; class; work; favorite hobby; taking pictures; my hobby; major; what i love; pics; occupation; click; Hobby; canon; what we do; subject; school; pic; college; what you do; usual; pix; my profession; my passion; hobbie; course; business type; my job; love;  ; what I like to do; snap; picture taking; Pictures; photog; my work; my major; lesson; images" },
+{ "no" : "3", "key": "F1RVv6KI3wM=", "text" : "k; kkk; kk; k6; 6k; kt; kkkkkkk; kkkkk; 6 k's; name; llllll; 6; kx6; 6xk; kkkk; six; ok; kkkkkkkk; ?; usual; plaka; nawab; lol; letter; l; king; K; hola; hhhhhh; 123456; yo; what; same; papa; none; me; lllll; k's; jjj; bbbbbb; ?????; ????; ??; yyyyyy; whatever; the k's; standard; simon; Same; racism" },
+{ "no" : "5", "key": "ut+EbGLSDgtipf5lD4vhUg==", "text" : "tv; pana; phone; camera; pan; TV; radio; marca; monitor; usual; stereo; p; telefono; pa; computer; company; mobile; ????; television; electronics; tele; brand; battery; the usual; sony; same; dvd; work; televisor; telephone; name; make; kamera; printer; hotmail; hola; fax; equipo; cam; audio; ??????; ?????; ???; ??; wie immer; type of tv; TV?; telefon; tape; sonic" },
+{ "no" : "8", "key": "Jrk3ExcBOpI=", "text" : "yo; yoyo; yo3; toy; yox3; hi; hey; dog; Yo; oyoyoy; yoyoyoyo; sup; gangsta; 3yo; yo?; quien soy; hello; cat; yo!; what up; usual; tututu; same; quien; oy; none; name; hihihi; gangster; yo man; yo mama; yeah; y; whats up; the usual; normal; no; lol; homie; ????; yo x3; rap; quien eres; quien?; msn; mi; me; JJ original; greeting; dude" },
+{ "no" : "9", "key": "CAKAt7+xYkE=", "text" : "football; team; football team; footy; soccer; club; manchester; footie; man; footy team; manchester united; united; usual; red devils; mufc; reds; football club; fav team; my team; mu; manu; Football; red; best team; Team; ronaldo; rooney; man utd; m; foot; sport; soccer team; normal; MU; footie team; favourite team; old trafford; none; manchesterunited; Football Team; Football team; fodbold; fav footy team; champs; Champions; champions; utd; soccer club; reddevils; my club" }
 ]}
 }

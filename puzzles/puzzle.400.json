@@ -1,32 +1,32 @@
 {
 "puzzle": [
-["_","_","_","_","a","b","c","d","e","f","g","h","_"],
-["i","_","l","_","_","l","_","_","_","_","_","a","_"],
-["l","_","i","_","d","a","l","l","a","s","_","r","_"],
-["l","_","g","_","_","b","_","_","_","_","_","r","_"],
-["u","_","h","e","l","l","o","k","i","t","t","y","_"],
-["s","_","t","_","_","a","_","_","_","_","_","p","_"],
-["t","_","r","a","b","b","i","t","_","_","_","o","_"],
-["r","_","o","_","_","l","_","_","_","_","_","t","_"],
+["l","o","g","i","t","e","c","h","_","_","h","_","_"],
+["_","_","_","_","_","_","_","a","_","_","e","_","_"],
 ["a","d","o","b","e","a","c","r","o","b","a","t","_"],
-["t","_","m","_","_","_","_","_","_","_","_","e","_"],
-["o","_","_","s","e","p","t","e","m","b","e","r","_"],
-["r","_","_","_","_","_","_","_","_","_","_","_","_"],
+["_","_","_","_","_","_","_","r","_","_","v","_","_"],
+["p","_","h","_","_","_","_","y","_","_","e","_","_"],
+["o","_","e","_","s","i","m","p","s","o","n","s","_"],
+["o","_","l","_","_","_","_","o","_","_","_","_","_"],
+["h","e","l","l","o","k","i","t","t","y","_","_","_"],
+["b","_","o","_","_","_","_","t","_","_","_","_","_"],
+["e","_","1","q","2","w","3","e","4","r","5","t","_"],
+["a","_","_","_","_","_","_","r","_","_","_","_","_"],
+["r","o","s","e","b","u","d","_","_","_","_","_","_"],
 ["_","_","_","_","_","_","_","_","_","_","_","_","_"]
 ],
 "clues": {
 "across" : [
-{ "no" : "1", "key": "eFRSSRLivTHioxG6CatHBw==", "text" : "alphabet; alpha; abc; a; abcd; letters; alphabets; a-h; alfabet; ah; ab; alfa; 123; alfabeto; 12345678; same; name; atoh; ??; usual; a; abecedario; 123456; ???????; normal; no; letter; hotmail; Alphabets; abcde; what; hgfedcba; hello; h; english; Alphabet; alph; abcdefg; ????; hi; duh; dog; abcdefghi; ABC; ?; yo; the; test; standard" },
-{ "no" : "6", "key": "UzB50sRbQy4=", "text" : "dog; city; cowboys; texas; team; football; son; name; hometown; football; Texas; cat; pet; home; dogs; town; City; favorite; cowboy; my; Dog; Cowboys; me; horse; daughter; tx; husband; born; Team; middle; grandson; city; usual; dog; birthplace; sons; my; boy; big; d; place; none; my; mavericks; favorite; favorite; Big; texas" },
-{ "no" : "7", "key": "14YTw5zelPRi+aP/tQxcQA==", "text" : "cat; kitty; hello; meow; sanrio; hk; cartoon; katze; hi; favorite; hi; character; usual; kat; hello; cute; favorite; cute; Kitty; HK; gato; Cat; japan; a; toy; Sanrio; gatto; cats; same; pet; kittyhello; kitty; holagato; hicat; fav; chat; sanrio; msn; Meow; lol; japanese; Hk; hi; hello; Hello; h; gatita; favorite; favorite" },
-{ "no" : "8", "key": "xnEJYFy6m/A=", "text" : "animal; bunny; pet; nickname; hare; usual; car; ears; bugs; furry; favorite; cat; carrot; lapin; hop; Animal; fluffy; easter; Bunny; ???; peter; the; rab; conejo; carrots; ??; pet; roger; Nickname; konijn; furry; first; ????; nick; first; bunbun; bugs; wife; same; normal; name; my; me; long; hase; fave; bun; Bugs; zodiac" },
-{ "no" : "9", "key": "kOJNAM9HT0lvsncZ9qhSDQ==", "text" : "adobe; product; software; program; adobe; programa; product; acrobat; software; name; name; pdf; site; name; program; aa; what; name; company; website; producto; logiciel; site; download; acrobatadobe; AA; Adobe; Adobe; reader; nombre; what; this; same; adobe; what; this; this; this; adac; what; obvious; nome; company; adobeacroba; adobeacro; adobea; ado; what; What" },
-{ "no" : "10", "key": "YlQe6pUMdsTxHUX3hQObgQ==", "text" : "month; birthday; birth; bday; birthday; birth; anniversary; month; sep; maand; birthmonth; Month; monat; 9; me; wedding; date; usual; month; sept; fall; Birth; s; my; Birthday; bday; 9th; same; dob; Birth; b-day; wedding; my; month; bulan; birthdate; you; ninth; my; my; marriage; born; Birth; sapphire; m?nad; mes; marriage; favorite; dad" }
+{ "no" : "1", "key": "OKNK2wu6lyzioxG6CatHBw==", "text" : "mouse; maus; keyboard; log; computer; webcam; logi; camera; speakers; Mouse; cam; souris; muis; Maus; lol; key; pc; usual; mus; logic; same; tastatur; speaker; raton; none; l; clavier; brand; wie immer; teclado; normal; company; comp; standard; logitech1; hi; asd; always; tastiera; Tastatur; my mouse; mouse brand; mice; hiiri; camara; password; ordinateur; music; merk; Marke" },
+{ "no" : "4", "key": "kOJNAM9HT0lvsncZ9qhSDQ==", "text" : "adobe; product; software; program; adobe acrobat; programa; product name; acrobat; software name; name; name of program; pdf; site; name of software; program name; aa; what is this; name of product; company; website; producto; logiciel; site name; download; acrobatadobe; AA; Adobe Acrobat; Adobe; reader; nombre del programa; what is it?; this; same; adobe product; what is this?; this software; this program; this product; adac; what is it; obvious; nome do programa; company name; adobeacroba; adobeacro; adobea; ado; what it is; What is this?; website name" },
+{ "no" : "7", "key": "mJWnMa3N0oTioxG6CatHBw==", "text" : "homer; tv; cartoon; tv show; bart; show; yellow; doh; usual; TV; gelb; the; sim; s; simp; favorite show; serie; fav show; yellow people; marge; Homer; the usual; simpson; fav tv show; none; TV Show; TV show; tvshow; simpsons1; lol; si; same; programme; homero; favourite tv show; dog; desenho; wie immer; tv serie; the simpsons; springfield; movie; jaune; film; fave show; Bart; tv program; tv-charmed; Tv; The" },
+{ "no" : "8", "key": "14YTw5zelPRi+aP/tQxcQA==", "text" : "cat; kitty; hello; meow; sanrio; hk; cartoon; katze; hi cat; favorite cat; hi; character; usual; kat; hello kitty; cute cat; favorite character; cute; Kitty; HK; gato; Cat; japan; a cat; toy; Sanrio; gatto; cats; same; pet; kittyhello; kitty cat; holagato; hicat; fav character; chat; sanrio cat; msn; Meow; lol; japanese cat; Hk; hi kitty; hello cat; Hello; h; gatita; favorite kitty; favorite cartoon character; dog" },
+{ "no" : "9", "key": "cSZM/nlchzyNmTIpq2dgSg==", "text" : "1q; 1q2w; qwerty; 12345; qwert; 1q5t; keyboard; ??; 1t; 1q2w3e4r; 1; 1q2w3e; ?????; 10; ???; usual; t5r4e3w2q1; ????; 1-5; 5; q; none; ask fiona or daniel; 1234; 123; teclado; numbers; myspace; 1q2; 12345qwert; tastiera; normal; lol; 5t4r3e2w1q; 15; 123456789; ?; zigzag; same; q1w2e3r4t5; password; no; key; hi; dog; azsxdcfvgb; always; 5t; 1234567890; 12" },
+{ "no" : "10", "key": "uki36SbRW4Y=", "text" : "flower; sled; dog; citizen kane; kane; rose; nickname; Citizen Kane; sims; Kane; usual; movie; Flower; orson; citizen; cat; the sims; the usual; same; rb; citizen cane; pet; flowers; bud; r; password; Orson; normal; mom; favorite flower; daughter; always; me; cow; columbo; welles; middle name; small flower; sleigh; red; orson wells; flower bud; CK; ciudadano kane; wells; usual password; The Sims; tattoo; Sled; Sims" }
 ],
 "down" : [
-{ "no" : "2", "key": "IW9iuJLaM7h5KSgskb6IRg==", "text" : "bla; blabla; bla3; bla?; parler; blah; talk; Bla; bla; bl; bbb; whatever; lol; lalala; gezever; gelaber; albalbalb; zever; usual; huh; hablar; habla; blubb; blub; blablablabla; 3xbla; same; onzin; kesha; hahaha; bullshit; 3bla; talking; stuff; praten; parle; nothing; noooo; nada; jaja; haha; geklets; boring; bla; blax3; blablabla?; blaaa; b; ..." },
-{ "no" : "3", "key": "VTnyxu1vLvMFqxOHFoFrxg==", "text" : "book; hp; harry; movie; wizard; harry; HP; favorite; film; potter; libro; fav; magic; pelicula; favourite; Book; hogwarts; favorite; mago; fave; peli; magia; h; filme; buch; livre; jkrowling; the; Hp; hermione; Harry; daniel; character; book; the; scar; rowling; ron; pelicula; Movie; libro; Favorite; fav; email; books; ???; Wizard; wand; msn" },
-{ "no" : "4", "key": "LJaa9QgLbLmMYzb7VjhnqA==", "text" : "adobe; program; software; logiciel; program; programa; product; product; name; programma; software; ill; programme; programm; ai; photoshop; illu; cs3; download; adobe...; adobe; Adobe; nombre; illus; not; adobe; trial; name; name; job; illustrate; cs4; ???; what; the; soft; program?; naam; ilustrator; drawing; draw; dise?o; adobe; adobe; ????????; programme; prog; nom; name" },
-{ "no" : "5", "key": "x1P5q3xUTlPeyXSMrFwf/w==", "text" : "program; adobe; software; product; light; name; product; program; lr; software; lichtraum; LR; darkroom; photoshop; light; photo; photo; name; roomlight; name; application; this; room; programm; programa; programma; prog; name; lightroo; trial; soft; nome; nom; lightroom2; adobe; Adobe; what; the; Software; logiciel; lichtkamer; download; app; what; this; programmname; Product; moorthgil" }
+{ "no" : "2", "key": "VTnyxu1vLvMFqxOHFoFrxg==", "text" : "book; hp; harry; movie; wizard; harry potter; HP; favorite book; film; potter; libro; fav book; magic; pelicula; favourite book; Book; hogwarts; favorite movie; mago; fave book; peli; magia; h; filme; buch; livre; jkrowling; the boy who lived; Hp; hermione; Harry Potter; daniel radcliffe; character; book series; the usual; scar; rowling; ron; pelicula favorita; Movie; libro favorito; Favorite Book; fav movie; email; books; ???; Wizard; wand; msn; Hogwarts" },
+{ "no" : "3", "key": "1Je0zySeEpI=", "text" : "sky; god; hell; daughter; God; home; up; h; angels; jesus; clouds; up above; angel; place; langit; where i want to go; usual; paradise; ??; look up; baby; dog; above; cielo; nevaeh; name; hea; same; paradis; himmel; ????; me; kingdom; in the sky; blue; the sky; love; Jesus; he; GOD; destination; Where do you want to go?; where?; the usual; Sky; opposite of hell; not hell; normal; Himmel; future home" },
+{ "no" : "5", "key": "69GFHYTq0kTioxG6CatHBw==", "text" : "bear; nickname; winnie; pooh; honey; dog; disney; winnie the pooh; cartoon; character; tigger; favorite character; Winnie; pet; cat; winnie the; usual; same; me; pb; piglet; fav character; teddy; disney character; Bear; animal; favorite bear; Nickname; hunny; dogs name; normal; Disney; yellow; tiggers friend; pet name; nick name; loves honey; yellow bear; whinnie the pooh; silly old bear; name; daughter; cute; 100 acre wood; toy; pooh bear; poo; nick; eeyore; Disney Character" },
+{ "no" : "6", "key": "SqAz3UGmFiE=", "text" : "hi; hello; greeting; hi1; hey; goodbye; Hi; usual; bye; greetings; normal; hi one; hello one; h1; hola; hi there; Greeting; howdy; helloone; h; greet; 1; hello 1; goodbye2; same; hiya; greeting1; goodbye1; yo; myspace; Greetings; the usual; no; hi!; what; welcome; none; hola1; hione; hello2; same as usual; HI; Hello; greetings1; everything; bonjour; something; same as always; nothing; lol" }
 ]}
 }

@@ -1,32 +1,33 @@
 {
 "puzzle": [
-["_","_","g","o","l","d","f","i","s","h","_","_","_"],
-["_","s","_","_","_","_","_","_","_","a","_","j","_"],
-["_","c","_","p","i","n","e","a","p","p","l","e","_"],
-["_","o","_","_","_","_","_","r","_","p","_","s","_"],
-["_","t","_","_","_","_","_","g","_","y","_","u","_"],
-["_","l","_","w","_","_","_","e","_","1","_","s","_"],
-["j","a","m","e","s","b","o","n","d","_","_","c","_"],
-["_","n","_","b","_","_","_","t","_","_","_","h","_"],
-["_","d","_","s","k","y","l","i","n","e","_","r","_"],
-["_","_","_","i","_","_","_","n","_","_","_","i","_"],
-["a","m","s","t","e","r","d","a","m","_","_","s","_"],
-["_","_","_","e","_","_","_","_","_","_","_","t","_"],
+["p","i","c","a","s","s","o","_","_","_","_","a","_"],
+["l","_","_","_","_","_","_","_","s","_","_","s","_"],
+["a","_","_","a","r","g","e","n","t","i","n","a","_"],
+["t","_","_","_","_","_","_","_","r","_","_","s","_"],
+["i","_","f","o","t","o","g","r","a","f","i","a","_"],
+["n","_","_","_","_","_","_","_","w","_","_","s","_"],
+["u","_","_","_","_","d","_","_","b","_","r","_","_"],
+["m","a","r","s","e","i","l","l","e","_","e","_","_"],
+["_","_","_","_","_","e","_","_","r","_","d","_","_"],
+["_","j","e","s","u","s","c","h","r","i","s","t","_"],
+["_","_","_","_","_","e","_","_","y","_","o","_","_"],
+["_","a","p","o","l","l","o","_","_","_","x","_","_"],
 ["_","_","_","_","_","_","_","_","_","_","_","_","_"]
 ],
 "clues": {
 "across" : [
-{ "no" : "1", "key": "gnqpyaB7elzioxG6CatHBw==", "text" : "fish; pet; gold; animal; water; fishy; usual; bowl; pond; orange; swims; tank; snack; cracker; food; swim; crackers; same; a; it; Fish; type; Pet; normal; in; gf; aquarium; memory; first; password; nickname; my; g; card; bubbles; swims; swimmer; sea; pets; old; its; golden; favorite; cc; ??; yummy; yes; wet" },
-{ "no" : "5", "key": "0onFaxPBnEW5n2auThm2+Q==", "text" : "fruit; fruity; Fruit; pine; food; apple; usual; tropical; tropical; spongebob; hawaii; favorite; a; yellow; yum; same; hawaiian; dog; ananas; ????; pin; nickname; fruits; ??????; spiky; spiky; spikey; spikey; p; name; Hawaiian; Fruity; FRUIT; fruit?; favourite; fav; duh; yellow; yahoo; the; pina; friut; cat; yummy; Usual; sweet; psych; prickly; pizza" },
-{ "no" : "8", "key": "gxGrUK36v5PdK4QGvZvfdQ==", "text" : "007; bond; james; movie; spy; jb; film; usual; actor; hero; secret; agent; JB; the; james; j; martini; ?????; same; oo7; name; my; movie; dog; 7; who; sean; password; nothing; normal; goldeneye; cat; u; the; superhero; spion; shaken; Sean; regular; my; movie; me; Hero; film; film; favourite; favorite; everything; character" },
-{ "no" : "9", "key": "pYfkaf8ui/k=", "text" : "car; nissan; sky; gtr; auto; Car; Nissan; street; favorite; work; cars; carro; ??????; ??; fav; ???; ?; kuruma; ????; voiture; school; r34; my; CAR; a; ?????; usual; lol; GT-R; GTR; favourite; R34; normal; fave; fast; company; bil; none; home; first; coche; band; autos; Auto; ???????; voll; usual; skyline1; s" },
-{ "no" : "10", "key": "7X/2OcmNk8PeyXSMrFwf/w==", "text" : "city; stad; hoofdstad; holland; place; ajax; geboorteplaats; home; woonplaats; plaats; stadt; City; capital; a; ville; ams; town; geboortestad; favorite; ciudad; tulips; holanda; waar; usual; NL; mooiste; mokum; dutch; country; waar; place; holiday; birthplace; adam; 1951; Woonplaats; street; nederland; Holland; geboren; Geboorteplaats; geboorte; europe; Amsterdam; am; where; where; weed; tulpen" }
+{ "no" : "1", "key": "KnWm86K61lw=", "text" : "artist; painter; art; cat; pablo; peintre; dog; pintor; chat; car; chien; schilder; maler; voiture; Maler; auto; pet; Pablo; p; guernica; paint; coche; Artist; pittore; artiste; citroen; Art; peinture; Kunstler; usual; same; pferd; Katze; katze; cubist; blue period; pi; perro; my dog; kunst; Hund; horse; favorite artist; spanish artist; pic; mon chien; hond; hase; Guernica; dog's name" },
+{ "no" : "4", "key": "3UW9xJamBU95KSgskb6IRg==", "text" : "pais; country; mi pais; arg; my country; maradona; lugar; donde; place; land; south america; tango; perro; patria; Pais; nacionalidad; mipais; Country; mama; home; hola; donde naci; ciudad; buenos aires; buenosaires; team; pais favorito; pais de origen; nada; mission; football; country of birth; caca; ar; a; un pais; soccer; selec?o; rosario; pays; pais natal; pais donde vivo; pais de nacimiento; pais de lumumba; nose; nombre; messi; luka; jaja; espa?a" },
+{ "no" : "5", "key": "JysTG66sEgePszVFZo1Ggg==", "text" : "foto; fotos; camara; hobby; photo; imagen; aficion; trabalho; imagem; profiss?o; profesion; photography; curso; camera; retrato; photoshop; passione; adobe; trabajo; spanish; programa; picture; pasion; nikon; fot; f; digital; uso; que hago; profissao; pictures; photos; paixao; mi pasion; lo que mas me gusta; la mia passione; job; hoby; hobbie; fotografo; fotografias; fotografia2; estudio; color; business; yo; taller de; scatto; sandy; que soy" },
+{ "no" : "8", "key": "kjZ0YTNVqdW5n2auThm2+Q==", "text" : "ville; om; foot; ma ville; 13; football; OM; club; equipe; Ville; olympique; mars; equipe de foot; ville du sud; city; velodrome; moi; club de foot; ville naissance; marseille13; l'om; lieu; 1993; ville de naissance; rien; naissance; lol; club prefere; ville ou j'habite; sud; soleil; pays; ou; lom; lieu de naissance; france; equipe prefere; zidane; We were robbed; ville sud; ville om; ville en France; ville de coeur; vil; une ville; sport; passion; papa; olympique de marseille; natale" },
+{ "no" : "9", "key": "7SuZ1BkpT2ij6wQ7/AUdYg==", "text" : "savior; jesus; god; jc; lord; saviour; Lord; christ; God; my savior; love; JC; my saviour; GOD; j; cross; son of god; son of God; Savior; father; religion; church; bible; Son of God; king; Jesus; who is lord; usual; the man; the lord; Saviour; name; my lord; jesus christ; heaven; My Savior; him; sauveur; salvation; my Lord; my hero; my god; hero; gods son; almighty; Who's I am; saved; My Saviour; mylord; my best friend" },
+{ "no" : "10", "key": "F5GJLDYLPYI=", "text" : "dog; space; cat; hund; greek god; moon; horse; dog's name; pet; god; printer; Dog; 13; ???; my dog; Hund; dogs name; a; greek; rocket; Greek God; dog name; spaceship; sun; Space; nasa; loritto; high school; cao; pet name; my cat; first dog; creed; company name; black dog; ??????; usual; standard; school; same; pferd; doggy; doggie; chien; cachorro;  ; work; wie immer; tier; the usual" }
 ],
 "down" : [
-{ "no" : "2", "key": "Pq3/w4xX+I8=", "text" : "happy; smile; mood; usual; sad; dog; same; feeling; me; h1; joy; happyone; state; i; emotion; sad1; pet; none; smile1; not; myspace; glad; hap; I; happy; feel; cat; are; what; the; smile; Smile; normal; how; h; happy?; feelings; what; what; smiles; sad2; mother's; love; hello; are; always; 1; :)" },
-{ "no" : "3", "key": "kOL2CAeCMNLioxG6CatHBw==", "text" : "country; home; place; homeland; Country; usual; my; country; scot; land; Home; born; edinburgh; home; braveheart; mission; place; glasgow; favorite; birth; team; scots; holiday; country; birth; alba; where; north; where; same; favorite; england; birthplace; s; pays; nation; me; i; honeymoon; home; haggis; favourite; favourite; ecosse; birth; vacation; travel; the; sco" },
-{ "no" : "4", "key": "7SuZ1BkpT2ij6wQ7/AUdYg==", "text" : "savior; jesus; god; jc; lord; saviour; Lord; christ; God; my; love; JC; my; GOD; j; cross; son; son; Savior; father; religion; church; bible; Son; king; Jesus; who; usual; the; the; Saviour; name; my; jesus; heaven; My; him; sauveur; salvation; my; my; my; hero; gods; almighty; Who's; saved; My; mylord" },
-{ "no" : "6", "key": "3UW9xJamBU95KSgskb6IRg==", "text" : "pais; country; mi; arg; my; maradona; lugar; donde; place; land; south; tango; perro; patria; Pais; nacionalidad; mipais; Country; mama; home; hola; donde; ciudad; buenos; buenosaires; team; pais; pais; nada; mission; football; country; caca; ar; a; un; soccer; selec?o; rosario; pays; pais; pais; pais; pais; nose; nombre; messi; luka; jaja" },
-{ "no" : "7", "key": "o31LtNmb2so=", "text" : "web; site; internet; purpose; ws; work; project; www; web; online; design; class; business; webpage; usual; hobby; dreamweaver; what; what; what; what; what; websites; school; reason; Internet; etisbew; building; wie; what; what; what; what; what; website1; web; use; usage; page; homepage; computer; .com; why; what; what's; whats; what; what; what" }
+{ "no" : "1", "key": "AwV0fhUooNDioxG6CatHBw==", "text" : "metal; gold; plat; ring; color; silver; precious metal; same; yahoo; usual; not gold; company; Metal; work; me; dog; the usual; speakers; shiny; plata; p; mineral; card; better than gold; ????; Pt; jewelry; favorite metal; company name; series; pl; old; normal; money; metallic; love; heavy metal; email; computer; cd; bling bling; bling; always; speaker; shiny metal; ring metal; records; record; precious; pla" },
+{ "no" : "2", "key": "Rg3P1G2d8VE=", "text" : "as; asas; sasasa; a; ass; asasasas; aaaaaa; ????; usual; as3; aa; asasas1; zxzxzx; lol; aaa; ??; ?; same; no; 121212; ???; ss; sa; normal; none; dog; asasass; asasasasas; asa; as*3; as?; aaaa; 3xas; 3as; ??????; ssss; samme; ok; Main password; lalala; kukasss; hint; ghh; dfgfhghjhj; cur; clavier; basic; asdfgh; asdasd; asas pass" },
+{ "no" : "3", "key": "xfFk9xMPhUcjK53VtQ56Pw==", "text" : "fruit; red; red fruit; favorite fruit; Fruit; berry; food; straw; fruity; fresa; ???; yummy; yum; shortcake; usual; ichigo; fruta; favourite fruit; fav fruit; same; fave fruit; nickname; ??; red berry; fruits; always; ?; sweet; fields; favorite food; dog; a fruit; s; pink; mjam; icecream; horse; fresas; fraise; fragola; favorite; favfruit; facebook; cat; berries; ?????; ????; Your favourite fruit; the usual; st" },
+{ "no" : "6", "key": "Lqwr/l0/1Lo=", "text" : "dog; fuel; hond; cat; pet; dogs name; jeans; gas; petrol; nickname; Dog; truck; dog name; vin; kat; clothes; my dog; engine; usual; merk; d; Hond; Vin; name; hund; Fuel; doggie; car; brand; black dog; auto; work; Truck; perfume; oil; me; marque; marca; gaz; dog's name; di; cat name; benzin; shoes; puppy; power; pets name; pet name; naam hond; my boy" },
+{ "no" : "7", "key": "YV0iNlondhY=", "text" : "baseball; team; boston; baseball team; favorite team; favorite baseball team; Boston; Baseball; Team; boston baseball; sports; red; Baseball team; sports team; sox; Favorite team; best team; 2004; sport; ball; my team; fenway; champs; boston baseball team; bosox; fav team; bball; favorite sports team; fav baseball team; bb; Baseball Team; yaz; Favorite Team; boston team; Boston baseball; usual; same; redsox1; mlb; lowell; best baseball team; beantown;  ; rs; red sox; Favorite Baseball Team; Favorite baseball team; dog; Boston Baseball; base" }
 ]}
 }

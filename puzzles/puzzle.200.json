@@ -1,32 +1,33 @@
 {
 "puzzle": [
-["_","_","z","a","q","1","2","w","s","x","_","_","_"],
-["p","_","_","_","_","_","_","_","w","_","_","_","_"],
-["a","z","e","r","t","y","u","i","o","p","_","_","_"],
-["s","_","_","_","_","_","_","_","r","_","b","_","_"],
-["s","_","r","i","c","h","a","r","d","_","l","_","_"],
-["w","_","_","_","a","_","_","_","f","_","i","_","_"],
-["o","_","c","h","r","i","s","t","i","a","n","_","_"],
-["r","_","_","_","o","_","_","_","s","_","k","_","_"],
-["d","_","_","_","l","_","_","_","h","_","1","_","_"],
-["1","_","p","r","i","n","c","e","_","_","8","_","_"],
-["2","_","_","_","n","_","_","_","_","_","2","_","_"],
-["3","_","e","l","e","p","h","a","n","t","_","_","_"],
+["r","e","b","e","c","c","a","_","_","7","_","1","_"],
+["a","_","l","_","_","_","_","_","_","8","_","4","_"],
+["c","_","a","_","c","_","_","_","_","9","_","7","_"],
+["h","a","h","a","h","a","_","s","_","4","_","2","_"],
+["e","_","b","_","r","_","_","w","_","5","_","5","_"],
+["l","_","l","_","i","_","_","o","_","6","_","8","_"],
+["_","p","a","s","s","w","o","r","d","1","2","3","_"],
+["_","_","h","_","t","_","_","d","_","2","_","6","_"],
+["_","_","_","_","i","_","_","f","_","3","_","9","_"],
+["c","o","m","p","a","q","_","i","_","_","_","_","_"],
+["_","_","_","_","n","_","a","s","d","1","2","3","_"],
+["_","_","_","_","_","_","_","h","_","_","_","_","_"],
 ["_","_","_","_","_","_","_","_","_","_","_","_","_"]
 ],
 "clues": {
 "across" : [
-{ "no" : "1", "key": "bec1NNix7PLioxG6CatHBw==", "text" : "zx; z; zaq; keyboard; ????; ??; za; usual; ?????; ???; zaq1; z-x; xsw21qaz; up; z12x; same; z; ??????; standard; z2x; updown; pattern; up; keys; ?; key; Z; xsw23edc; none; left; qwerty; normal; left; ???????; dupa; dog; aaa; 12; ????????; teclado; password; left; ztox; zaq12ws; zak; z2; z??; to" },
-{ "no" : "4", "key": "hWY3Y8Ie8K4E+R+mSnMKEA==", "text" : "clavier; azerty; poiuytreza; azer; qsdfghjklm; az; aze; ap; a; azert; lol; ligne; azertyuio; 1; Clavier; rien; klavier; keyboard; clav; wxcvbn; prout; premiere; lettre; alphabet; test; maison; facile; clavier; a-p; toetsenbord; moi; maman; comme; azertyui; aqwzsx; aetuo; adobe; 1er; 1ere; 123456789; 12; touche; ss; simple; premiere; ok; ligne; ligne1; en" },
-{ "no" : "6", "key": "OceUXQjjWs8=", "text" : "name; husband; son; dad; boyfriend; my; middle; hubby; first; me; rich; brother; middle; dick; Name; Husband; love; r; prenom; spouse; dads; husband's; dog; boy; husbands; him; bro; bf; my; friend; usual; man; father; uncle; sons; partner; nombre; myname; your; honey; cat; best; baby; nephew; husband; grandson; boss; son's; Son" },
-{ "no" : "8", "key": "r+eNrqQX2taj9JL72Rf2Mg==", "text" : "son; name; chris; religion; my; son's; sons; grandson; baby; nombre; prenom; boy; Name; me; middle; husband; church; my; jesus; hijo; faith; christ; Son; sohn; c; brother; amor; boyfriend; schatz; moi; freund; sun; love; vorname; mi; middle; kid; bruder; usual; son; nephew; Jesus; ich; Freund; ch; yo; Vorname; Sohn; papa" },
-{ "no" : "9", "key": "a66MtRt2gwY=", "text" : "dog; pet; cat; king; p; name; purple; me; princess; horse; son; royalty; chien; dogs; Dog; singer; pet; my; dog; pr; nickname; royal; my; artist; usual; purple; dog's; pets; first; pri; tennis; favorite; music; doggy; doggie; same; charming; ??; puppy; prin; love; kings; favorite; chat; the; pet's; nick; my; kitty" },
-{ "no" : "10", "key": "I3dZTlI5aITioxG6CatHBw==", "text" : "animal; trunk; grey; favorite; big; big; fav; usual; Animal; never; never; favourite; dumbo; large; gray; big; ele; big; pachyderm; africa; grey; same; big; zoo; remember; e; tusks; large; collection; big; normal; ears; tusk; the; Dumbo; mouse; jumbo; fave; zoo; pink; my; large; hathi; circus; animal; you; Usual; pet; peanuts" }
+{ "no" : "1", "key": "iHEINA+1twc=", "text" : "daughter; name; wife; my name; me; sister; middle name; girl; daughters name; first name; Name; sis; granddaughter; Daughter; niece; becca; kid; usual; girlfriend; daughter's name; mom; middle; bex; becky; dog; child; reb; r; baby; love; fille; tochter; mother; figlia; daughter name; Tochter; her; grandaughter; gf; filha; neice; first; best friend; wife's name; Wife; friend; eldest daughter; eldest; your name; youngest" },
+{ "no" : "6", "key": "x6QDZCOQLYA=", "text" : "laugh; ha; lol; funny; haha; hehehe; laughing; lachen; hahahaha; laughter; smile; h; hohoho; hihihi; Laugh; tawa; LOL; joke; hehe; risada; what; rire; lalala; ???; ketawa; hahaha1; ahahah; ?; lustig; laughs; hi; hax3; happy; usual; skratt; huhuhu; hahahahaha; ha ha ha; hahah; ha3; always; none; Laughter; laugh3; jajaja; hello; Funny; 123456; ????; ??" },
+{ "no" : "8", "key": "L8qbAD3jl3jvIqiWv60+gA==", "text" : "password; pass; 123; pw123; usual; p123; easy; same; pass123; password 123; Password; hint; p; pw; name; normal; pwd123; none; simple;  ; p1; generic; 123password; standard; pwd; p3; no; default; 321drowssap; password?; hi; hello; guess; duh; dog; the usual; PW; pass 123; pas; lol; work; who; regular; password hint; nothing; you know; word; what it is; usual password; test" },
+{ "no" : "9", "key": "H3V/pM5KAAw=", "text" : "computer; pc; comp; com; laptop; Computer; c; usual; monitor; cpu; my computer; normal; computer name; old computer; ordi; ordinateur; first computer; computador; PC; marca; hp; same; computadora; co; keyboard; computer brand; compu; puter; presario; old pc; computer type; old comp; cq; pc name; password; name; HP; dog; cp; compaq1; brand; standard; regular; qapmoc; notebook; Monitor; lap; first pc; duh; dator" },
+{ "no" : "10", "key": "C6fdPcrsYlU=", "text" : "asd; a; 123asd; a1; 123; ???; usual; as; ??; ????; lol; 321dsa; same; easy; dsa321; keyboard; aaa; 123456; 123456789; simple; normal; the usual; none; asdasd; asd1234; 1; ??????; ?????; teclado; regular; la de siempre; dsa; asd12; sempre; hello; adobe; a3; ???123; ?; standard; qwerty; name; me; facil; duh; dog; asdqwe; asdf1234; asdf; asd1" }
 ],
 "down" : [
-{ "no" : "2", "key": "9jc9z12HlKyQHTIXrZoyVQ==", "text" : "fish; movie; film; password; sword; marx; usual; groucho; marx; travolta; Movie; fishy; filme; Marx; a; harpo; Fish; the; same; peixe; passwort; pez; ocean; marx; Groucho; big; a; what's; sf; sea; normal; Film; sw; pez; password:; none; Marx; Marx; John; peixe; halle; fisch; standard; senha; john; isda; Harpo; family" },
-{ "no" : "3", "key": "L8qbAD3jl3jvIqiWv60+gA==", "text" : "password; pass; 123; pw123; usual; p123; easy; same; pass123; password; Password; hint; p; pw; name; normal; pwd123; none; simple; p1; generic; 123password; standard; pwd; p3; no; default; 321drowssap; password?; hi; hello; guess; duh; dog; the; PW; pass; pas; lol; work; who; regular; password; nothing; you; word; what; usual" },
-{ "no" : "5", "key": "Mli/zMyCUN/ioxG6CatHBw==", "text" : "band; blink; favorite; fav; Band; banda; music; 182; grupo; fave; band; b; same; usual; tom; travis; tom; musica; favourite; fav.; punk; a; grupo; dammit; blink; always; travis; punk; you; rock; all; password; best; normal; eye; duh; none; Favorite; best; band?; group; good; groupe; banda; b182; you; whats; the; old" },
-{ "no" : "7", "key": "156uBx8IY+vioxG6CatHBw==", "text" : "daughter; name; wife; prenom; fille; my; middle; sister; moi; me; femme; caro; girl; mum; carol; nome; girlfriend; usual; mon; sis; niece; daughter's; Daughter; soeur; middle; filha; child; naam; granddaughter; car; your; tochter; Name; love; gf; datter; mother; kid; baby; mom; first; Wife; nom; meu; cousin; navn; namn; ma; copine" }
+{ "no" : "1", "key": "MaQxirgi3Ec=", "text" : "daughter; name; wife; my name; me; sister; girl; Daughter; middle name; granddaughter; girlfriend; niece; first name; daughters name; kid; grandaughter; child; daughter's name; sis; dog; r; love; baby; Name; gf; rach; first born; usual; prenom; cat; middle; friend; your name; Wife; her; baby girl; fille; wifes name; My name; my baby; mother; oldest daughter; normal; my girl; mom; kids; eldest; Daughter's name; rac; myname" },
+{ "no" : "2", "key": "IMXJj9o2BfTioxG6CatHBw==", "text" : "blah; blah blah; whatever; bb; usual; blah?; blah2; blahx2; b; nothing; boring; Blah; same; bla; bl; talk; halb; blahblahblah; none; meh; bleh; what?; what; talking; nonsense; halbhalb; bored; blah x 2; huh?; stupid; random; hi; blabla; yada yada; name; duh; blah x2; ...; yeah; What?; the usual; test; lala; dog; blah twice; blahblah2; BLAH; Blah?; yadda yadda; yaddayadda" },
+{ "no" : "3", "key": "58gPLEAf/Pu6cdBSCql/UQ==", "text" : "789; numeros; numbers; 123456789; 7; 123; number; 789456; ??; numero; num; 78; 741; 321654987; 123456; teclado; ????; #; 78945612; ???; 7-3; 456; usual; hola; chiffre; 741852963; 73; 1; ??????; lol; 1234; nada; asd; ?; normal; keypad; clavier; a; 987654321; yahoo; the usual; same; numpad; Numbers; n; hotmail; hi; hello; email; cijfers" },
+{ "no" : "4", "key": "HLSDztaQnjo6aMjgZFLzYg==", "text" : "147; 123456789; numeros; 123; numbers; 123456; ??; 147258; 14; 1; ????; 369258147; ???; teclado; number; num; ?????; numero; la de siempre; ??????; no; 963852741; 741852963; msn; 14725836; 12345; normal; chiffre; 1-9; ?; perro; none; nada; haha; 159357; 157; 111; 0000; ????????; vertical; sim; sequencia; ola; numba; Num; name; mama; los numeros; lol; leo" },
+{ "no" : "5", "key": "r+eNrqQX2taj9JL72Rf2Mg==", "text" : "son; name; chris; religion; my name; son's name; sons name; grandson; baby; nombre; prenom; boy; Name; me; middle name; husband; church; my son; jesus; hijo; faith; christ; Son; sohn; c; brother; amor; boyfriend; schatz; moi; freund; sun; love; vorname; mi nombre; middle; kid; bruder; usual; son name; nephew; Jesus; ich; Freund; ch; yo; Vorname; Sohn; papa; novio" },
+{ "no" : "7", "key": "9jc9z12HlKyQHTIXrZoyVQ==", "text" : "fish; movie; film; password; sword; marx; usual; groucho; marx bros; travolta; Movie; fishy; filme; Marx Brothers; a senha; harpo; Fish; the usual; same; peixe; passwort; pez; ocean; marx brothers; Groucho; big fish; a fish; what's the password?; sf; sea; normal; Film; sw; pez espada; password:; none; Marx Bros; Marx; John Travolta;  ; peixe espada; halle berry; fisch; standard; senha; john travolta; isda; Harpo; family password; regular" }
 ]}
 }

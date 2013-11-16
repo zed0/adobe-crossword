@@ -1,32 +1,32 @@
 {
 "puzzle": [
-["_","_","a","_","_","_","_","_","_","j","_","_","_"],
-["_","_","d","_","_","j","_","m","_","u","_","_","_"],
-["_","m","o","t","d","e","p","a","s","s","e","_","_"],
-["b","_","b","_","_","s","_","n","_","t","_","_","_"],
-["a","l","e","x","i","s","_","c","_","i","_","_","_"],
-["r","_",".","_","_","i","_","h","_","n","_","_","_"],
-["n","_","c","_","r","e","m","e","m","b","e","r","_"],
-["e","_","o","_","_","_","_","s","_","i","_","_","_"],
-["y","a","m","a","h","a","_","t","_","e","_","_","_"],
-["_","_","_","_","_","_","_","e","_","b","_","_","_"],
-["_","_","t","i","n","k","e","r","b","e","l","l","_"],
-["_","_","_","_","_","_","_","_","_","r","_","_","_"],
+["j","u","s","t","i","n","b","i","e","b","e","r","_"],
+["_","_","_","i","_","_","_","_","_","_","_","_","_"],
+["_","m","a","n","c","h","e","s","t","e","r","_","_"],
+["_","a","_","k","_","_","_","l","_","_","e","_","_"],
+["_","r","_","e","_","_","_","i","_","_","m","_","_"],
+["_","k","_","r","_","_","a","p","p","l","e","s","_"],
+["_","e","_","b","_","l","_","k","_","_","m","_","_"],
+["_","t","_","e","_","o","_","n","_","_","b","_","_"],
+["_","i","_","l","o","l","l","o","l","_","e","_","_"],
+["_","n","_","l","_","1","_","t","_","_","r","_","_"],
+["_","g","_","_","_","2","_","_","_","_","_","_","_"],
+["_","_","_","1","2","3","6","5","4","7","8","9","_"],
 ["_","_","_","_","_","_","_","_","_","_","_","_","_"]
 ],
 "clues": {
 "across" : [
-{ "no" : "5", "key": "8JkomFzoeMYB+HYVrlQiww==", "text" : "mot; password; mdp; mot; indice; facile; passe; idem; rien; comme; simple; habituel; secret; french; passedemot; pareil; 1; mot; lol; code; adobe; question; Password; motdepasse1; mot; meme; MDP; le; habitude; classique; aucun; 123; pass; msn; mp; senha; prout; Mot; logique; en; comme; chat; azerty; ?; word; ville; toujours; test; quoi" },
-{ "no" : "7", "key": "FVwsWf6GfhU=", "text" : "daughter; name; fils; middle; my; girl; daughters; alex; baby; kid; granddaughter; sister; son; me; dog; prenom; nombre; grandaughter; Daughter; niece; child; middle; Name; mi; lexi; daughter's; wife; neice; enfant; hijo; cat; ale; mon; a; moi; al; yo; lex; first; daughter; baby; girlfriend; frere; amor; usual; son's; same; oldest; my" },
-{ "no" : "8", "key": "4hnVrh811NTioxG6CatHBw==", "text" : "forget; don't; dont; think; rem; memory; forgot; same; Don't; usual; re; always; forget?; what; r; remember?; forgot?; remember; mind; do; ??; the; remember; recall; none; duh; remind; remem; opposite; hotmail; forget; do; Don't; what?; password; Forget; do; ?; remember; remembe; reme; recordar; normal; never; member; don't; what; remember1; not" },
-{ "no" : "9", "key": "w90ks2YmvQU=", "text" : "bike; moto; motorcycle; motor; dirtbike; drums; guitar; my; piano; motorbike; y; keyboard; ya; usual; cross; Bike; quad; motocross; dirt; atv; music; speakers; snowmobile; motorrad; mc; brand; blue; sled; r1; first; yam; mi; drum; yz; speaker; Motorrad; blue; ???; jetski; bikes; bike; scooter; Motorcycle; teclado; rossi; name; motif; moped; dirt" },
-{ "no" : "10", "key": "30xVE2G1Z3fAhZNKBW56+w==", "text" : "fairy; disney; peter; cat; tink; dog; peterpan; nickname; pet; disney; tinker; Disney; pixie; peter; usual; Peter; bell; Fairy; cartoon; disney; character; campanita; me; my; kitty; cats; fairies; puppy; pixie; dogs; favourite; tinks; meow; favorite; Cat; pets; favorite; fav; peter; favorite; dog; Dog; pan; neverland; hada; dog's; pet; first; fave" }
+{ "no" : "1", "key": "hR1pCCKMtht7xQcTFL85/g==", "text" : "jb; justin; justin bieber; JB; bieber; singer; Jb; favorite singer; Justin; famous; one time; love; Justinbieber; j; i love him; favourite singer; a singer; teamojb; star; Singer; sexy boy; Never Say Never; neversaynever; my world; my husband; My fav singer; mi idolo; justindrewbieber; Justin Bieber; just; jus; idolo; idol; hottie; hot; fav singer; celeb; Bieber; baby; algo; 123456; zanger; yus; your lover ;) you call him jbiebs lol; you love him; you know your password; yavrular; Without the heart; who your favorite singer; who sings the songs 'one time' 'baby' etc." },
+{ "no" : "3", "key": "Wq47rZpht3df+E5Ulu/AzA==", "text" : "city; football; united; team; town; place; man; club; home; football team; soccer; equipo; football club; footy; manu; manutd; uni; m; usual; mufc; manc; home town; United; futbol; footie; Football; City; utd; soccer team; hometown; red; my team; foot; university; my city; man u; city of birth; born; where i live; reds; red devils; place of birth; klub; fav team; work; soccer club; ronaldo; none; manchesterunited; location" },
+{ "no" : "6", "key": "ATWFISjpHZU=", "text" : "fruit; fruits; Fruit; red; apple; food; fruity; red fruit; tree; usual; green; oranges; a; trees; same; favorite fruit; yummy; kitchen; a fruit; dog; app; orange; eat; bananas; normal; mac; fruit?; ap; yum; pears; granny smith; Fruits; computer; pie; nickname; green fruit; friut; computers; plural; not oranges; none; newton; juicy; hi; fru; Food; banana; appless; always; Usual" },
+{ "no" : "8", "key": "BlZkleQeutk=", "text" : "lol; haha; laugh; funny; lolx2; rofl; lol?; lollollol; hahaha; lol lol; l; LOL; laugh out loud; lol2; lollol1; laughing; hehe; mdr; hahahaha; lolloll; Lol; lachen; ha; rire; lawl; lustig; lol x2; lmao; hihi; grappig; xD; noob; none; lolol; lo; its funny; Haha; no; lollo; lol*2; hoi; hehehehe; Funny; 2x lol; roflrofl; nix; moi; loooool; lola; LoL" },
+{ "no" : "9", "key": "NAvgKlD2p8U6aMjgZFLzYg==", "text" : "123; numeros; numbers; 123654; 123456789; 987456321; number; 12365478; 1; 147852369; 123456; ??; 19; 123...; num; msn; Numeros; la de siempre; 1-9; 1236; 12; ??????; numero; none; 167; 1234; ?????; ???; zigzag; snake; me; 9; 159; 147258369; 136479; sequencia; perro; normal; mail; lo de siempre; la misma; 789654123; 5; 147; 12345; 00000; ????; uno; test; teclado" }
 ],
 "down" : [
-{ "no" : "1", "key": "ciq1emBxo0reyXSMrFwf/w==", "text" : "adobe; site; website; url; site; web; .com; this; adobe; website; adobedotcom; www; web; domain; name; Website; sitename; pagina; here; Adobe; URL; site.com; where; Site; adobe; where; this; nom; where; website.com; usual; www.adobe.com; company; adobecom; a; Where; the; name; standard; name; where; webpage; web; normal; com; adobe.; a.com; whereami; where" },
-{ "no" : "2", "key": "hR1pCCKMtht7xQcTFL85/g==", "text" : "jb; justin; justin; JB; bieber; singer; Jb; favorite; Justin; famous; one; love; Justinbieber; j; i; favourite; a; teamojb; star; Singer; sexy; Never; neversaynever; my; my; My; mi; justindrewbieber; Justin; just; jus; idolo; idol; hottie; hot; fav; celeb; Bieber; baby; algo; 123456; zanger; yus; your; you; you; yavrular; Without; who" },
-{ "no" : "3", "key": "clZh5GzH4MY=", "text" : "dog; name; cat; daughter; pet; dogs; Dog; nickname; my; my; me; dog; wife; first; old; horse; dog's; chien; doggie; granddaughter; woof; sister; mom; jess; black; son; husband; hund; mother; girl; friend; kid; Daughter; pets; j; fille; Cat; puppy; animal; usual; hond; doggy; dead; 1st; Pet; nick; name; jes; duh" },
-{ "no" : "4", "key": "Wq47rZpht3df+E5Ulu/AzA==", "text" : "city; football; united; team; town; place; man; club; home; football; soccer; equipo; football; footy; manu; manutd; uni; m; usual; mufc; manc; home; United; futbol; footie; Football; City; utd; soccer; hometown; red; my; foot; university; my; man; city; born; where; reds; red; place; klub; fav; work; soccer; ronaldo; none; manchesterunited" },
-{ "no" : "6", "key": "L7KLv90tohM=", "text" : "dog; cat; pet; purple; Dog; dogs; nickname; old; woof; dog; first; my; dinosaur; purple; purple; pets; dog's; dino; pet; rubble; horse; Cat; usual; bird; b; Purple; name; fred; doggy; Pet; hund; bear; puppy; name; dead; black; animal; 1st; rabbit; pet; fat; black; white; meow; cats; cartoon; beagle; bar; son" }
+{ "no" : "2", "key": "30xVE2G1Z3fAhZNKBW56+w==", "text" : "fairy; disney; peter pan; cat; tink; dog; peterpan; nickname; pet; disney character; tinker; Disney; pixie; peter; usual; Peter Pan; bell; Fairy; cartoon; disney fairy; character; campanita; me; my dog; kitty; cats name; fairies; puppy; pixie dust; dogs name; favourite disney character; tinks; meow; favorite character; Cat; pets name; favorite fairy; fav character; peter pans fairy; favorite disney character; dog name; Dog; pan; neverland; hada; dog's name; pet name; first dog; fave disney character; a fairy" },
+{ "no" : "3", "key": "Xfi+h4Ir6l7zXCP+N4EPvQ==", "text" : "department; job; dept; work; my department; my job; Department; major; job title; mkt; market; Job; Abteilung; what i do; what I do; profession; department name; degree; mktg; afdeling; usual; your department; subject; class; what we do; job description; email; title; our department; occupation; departamento; abteilung; your job; sales; service; position; job function; dept name; department I work in;  ; office; college; career; what do you do; what do I do; role; mark; function; curso; company" },
+{ "no" : "4", "key": "uxYJCKtqrhnioxG6CatHBw==", "text" : "band; slip; metal; banda; favorite band; fav band; music; Band; groupe; rock; iowa; s; grupo; maggot; knot; corey; band name; a band; musique; musica; corey taylor; joey; wait and bleed; metal band; 666; usual; fave band; sli; sl; my favorite band; joey jordison; yo; tonkpils; slipknot1; sk; sic; fav. band; duality; slipkno; slipk; normal; none; my fav band; mask; lol; dog; slip knot; same; musik; maggots" },
+{ "no" : "5", "key": "4hnVrh811NTioxG6CatHBw==", "text" : "forget; don't forget; dont forget; think; rem; memory; forgot; same; Don't forget; usual; re; always; forget?; what; r; remember?; forgot?; remember it; mind; do not forget; ??; the usual; remember this; recall; none; duh; remind; remem; opposite of forget; hotmail; forget it; do you; Don't Forget; what?; password; Forget; do you?; ?; remember me; remembe; reme; recordar; normal; never forget; member; don't forget!; what to do; remember1; not forget; dontforget" },
+{ "no" : "7", "key": "K/4pB/RyBgU=", "text" : "lol; haha; funny; laugh; lol?; 123; LOL; laugh out loud; hahaha; 123lol; hehe; xD; rofl; Lol; laughing; hi; lol321; lol1234; lol 123; l; lol12; haha123; no; Laugh; asd; 321lol; none; loool; lol1; lol...; laugh out loud 123; ha; dog; nope; love; lol one two three; lawl; lal; l1; idk; grappig; bob; bla; asdf; ?; wtf; wow; same; omg; lustig" }
 ]}
 }
