@@ -75,6 +75,7 @@ Build the puzzle inside a standard HTML table.  Each <td> in the table is assign
 				var div = document.createElement('input');
 				div.type = "text";
 				$(div).attr('maxlength', '1');
+				$(div).attr('autocapitalize', 'none');
 				if(character == crossword.BLACKCELL)
 				{
 					div.className = "cwBlackCell";
@@ -424,6 +425,7 @@ function paintCell(id, selector) // display either the answer or the player's cu
 		$(numID).text($(id).data("number"))
 	}
 	$(id).removeClass('cwWrong');
+	$(id).removeClass('cwRight');
 	$(id).val(value);
 }
 
@@ -436,5 +438,9 @@ function checkCell(id) // Check the players input and the answer match
 	if(($(id).data('player') != '') && $(id).data('player') != $(id).data('answer'))
 	{
 		$(id).addClass('cwWrong');
+	}
+	else if(($(id).data('player') != '') && $(id).data('player') == $(id).data('answer'))
+	{
+		$(id).addClass('cwRight');
 	}
 }
