@@ -1,10 +1,37 @@
+#!/usr/bin/python
+
+# Modified by Ben Falconer for the Adobe Crossword
+# Most modifications are to output a json structure
+# The original version of this code is available at http://bryanhelmig.com/python-crossword-puzzle-generator/
+# Original Attribution:
+
+# Copyright (c) 2010, Bryan Helmig
+# All rights reserved.
+#
+# Redistribution and use in source and binary forms, with or without
+# modification, are permitted provided that the following conditions are met:
+#     * Redistributions of source code must retain the above copyright
+#       notice, this list of conditions and the following disclaimer.
+#     * Redistributions in binary form must reproduce the above copyright
+#       notice, this list of conditions and the following disclaimer in the
+#       documentation and/or other materials provided with the distribution.
+#     * Neither the name of the copyright holder nor the
+#       names of its contributors may be used to endorse or promote products
+#       derived from this software without specific prior written permission.
+#
+# THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+# ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+# WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+# DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY
+# DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+# (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+# LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
+# ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+# (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+# SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
 import random, re, time, string, sys
 from copy import copy as duplicate
-
-# optional, speeds up by a factor of 4
-
-#import psyco
-#psyco.full()
 
 class Crossword(object):
 	def __init__(self, cols, rows, empty = '-', maxloops = 2000, available_words=[]):
@@ -55,8 +82,6 @@ class Crossword(object):
 					if word not in copy.current_word_list:
 						copy.fit_and_add(word)
 				x += 1
-			#print copy.solution()
-			#print len(copy.current_word_list), len(self.current_word_list), self.debug
 			# buffer the best crossword by comparing placed words
 			if len(copy.current_word_list) > len(self.current_word_list):
 				self.current_word_list = copy.current_word_list
@@ -77,21 +102,18 @@ class Crossword(object):
 				for cell in row: # cycle through  letters in rows
 					colc += 1
 					if given_letter == cell: # check match letter in word to letters in row
-						try: # suggest vertical placement 
+						try: # suggest vertical placement
 							if rowc - glc > 0: # make sure we're not suggesting a starting point off the grid
 								if ((rowc - glc) + word.length) <= self.rows: # make sure word doesn't go off of grid
 									coordlist.append([colc, rowc - glc, 1, colc + (rowc - glc), 0])
 						except: pass
-						try: # suggest horizontal placement 
+						try: # suggest horizontal placement
 							if colc - glc > 0: # make sure we're not suggesting a starting point off the grid
 								if ((colc - glc) + word.length) <= self.cols: # make sure word doesn't go off of grid
 									coordlist.append([colc - glc, rowc, 0, rowc + (colc - glc), 0])
 						except: pass
 		# example: coordlist[0] = [col, row, vertical, col + row, score]
-		#print word.word
-		#print coordlist
 		new_coordlist = self.sort_coordlist(coordlist, word)
-		#print new_coordlist
 		return new_coordlist
 
 	def sort_coordlist(self, coordlist, word): # give each coordinate a score, then sort
@@ -115,15 +137,6 @@ class Crossword(object):
 			if len(self.current_word_list) == 0: # this is the first word: the seed
 				# top left seed of longest word yields best results (maybe override)
 				vertical, col, row = random.randrange(0, 2), 1, 1
-				''' 
-				# optional center seed method, slower and less keyword placement
-				if vertical:
-					col = int(round((self.cols + 1)/2, 0))
-					row = int(round((self.rows + 1)/2, 0)) - int(round((word.length + 1)/2, 0))
-				else:
-					col = int(round((self.cols + 1)/2, 0)) - int(round((word.length + 1)/2, 0))
-					row = int(round((self.rows + 1)/2, 0))
-				'''
 				# completely random seed method
 				col = random.randrange(1, self.cols + 1)
 				row = random.randrange(1, self.rows + 1)
@@ -154,7 +167,7 @@ class Crossword(object):
 			return 0
 
 		count, score = 1, 1 # give score a standard value of 1, will override with 0 if collisions detected
-		for letter in word.word:            
+		for letter in word.word:
 			try:
 				active_cell = self.get_cell(col, row)
 			except IndexError:
@@ -245,8 +258,6 @@ class Crossword(object):
 		result = []
 		for r in range(self.rows):
 			outStr = '"' + '","'.join(self.grid[r]) + '"'
-			#for c in self.grid[r]:
-				#outStr += '%s' % c
 			result.append(outStr)
 		solution = '"puzzle": [\n[' + '],\n['.join(result) + ']\n]'
 		return solution
@@ -337,8 +348,6 @@ class Word(object):
 
 ### end class, start execution
 
-#start_full = float(time.time())
-
 word_list = []
 counter = int(sys.argv[1])
 with open('answers.' + sys.argv[1] + '.dat') as f:
@@ -346,7 +355,7 @@ with open('answers.' + sys.argv[1] + '.dat') as f:
 		counter = counter+1;
 		words = string.split(line)
 		if len(words) == 3:
-			clues = open('clues/'+str(counter)+'-hints').read()
+			clues = open('clues/hints-'+str(counter)).read()
 			clues_list = string.split(clues, '\n')
 			clues_list = [i for i in clues_list if i != '']
 			clues = '; '.join(clues_list)
@@ -355,15 +364,9 @@ with open('answers.' + sys.argv[1] + '.dat') as f:
 f = open(sys.argv[2], 'w')
 a = Crossword(13, 13, '_', 5000, word_list)
 a.compute_crossword(6)
-#print a.word_bank()
 f.write('{\n')
 f.write(a.solution())
 f.write(',\n')
-#print a.word_find()
 a.display()
 f.write(a.legend())
 f.write('\n}')
-#print len(a.current_word_list), 'out of', len(word_list)
-#print a.debug
-#end_full = float(time.time())
-#print end_full - start_full
